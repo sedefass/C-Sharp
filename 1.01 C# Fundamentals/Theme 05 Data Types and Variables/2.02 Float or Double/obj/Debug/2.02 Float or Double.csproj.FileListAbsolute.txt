@@ -1,0 +1,6 @@
+D:\Projects\Telerik\C# Fundamentals\Theme 2\2.02 Float or Double\bin\Debug\2.02 Float or Double.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 2\2.02 Float or Double\bin\Debug\2.02 Float or Double.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 2\2.02 Float or Double\bin\Debug\2.02 Float or Double.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 2\2.02 Float or Double\obj\Debug\2.02 Float or Double.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 2\2.02 Float or Double\obj\Debug\2.02 Float or Double.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 2\2.02 Float or Double\obj\Debug\2.02 Float or Double.csprojResolveAssemblyReference.cache

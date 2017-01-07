@@ -1,0 +1,5 @@
+D:\Projects\Telerik\C# Fundamentals\Theme 3\3.04 Rectangles\bin\Debug\3.04 Rectangles.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 3\3.04 Rectangles\bin\Debug\3.04 Rectangles.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 3\3.04 Rectangles\bin\Debug\3.04 Rectangles.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 3\3.04 Rectangles\obj\Debug\3.04 Rectangles.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 3\3.04 Rectangles\obj\Debug\3.04 Rectangles.pdb

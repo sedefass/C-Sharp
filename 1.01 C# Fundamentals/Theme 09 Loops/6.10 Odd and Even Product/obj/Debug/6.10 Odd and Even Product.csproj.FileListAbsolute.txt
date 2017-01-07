@@ -1,0 +1,10 @@
+D:\Projects\Telerik\C# Fundamentals\Theme 6 Loops\6.10 Odd and Even Product\bin\Debug\6.10 Odd and Even Product.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 6 Loops\6.10 Odd and Even Product\bin\Debug\6.10 Odd and Even Product.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 6 Loops\6.10 Odd and Even Product\bin\Debug\6.10 Odd and Even Product.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 6 Loops\6.10 Odd and Even Product\obj\Debug\6.10 Odd and Even Product.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 6 Loops\6.10 Odd and Even Product\obj\Debug\6.10 Odd and Even Product.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 09 Loops\6.10 Odd and Even Product\bin\Debug\6.10 Odd and Even Product.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 09 Loops\6.10 Odd and Even Product\obj\Debug\6.10 Odd and Even Product.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 09 Loops\6.10 Odd and Even Product\obj\Debug\6.10 Odd and Even Product.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 09 Loops\6.10 Odd and Even Product\bin\Debug\6.10 Odd and Even Product.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 09 Loops\6.10 Odd and Even Product\bin\Debug\6.10 Odd and Even Product.pdb

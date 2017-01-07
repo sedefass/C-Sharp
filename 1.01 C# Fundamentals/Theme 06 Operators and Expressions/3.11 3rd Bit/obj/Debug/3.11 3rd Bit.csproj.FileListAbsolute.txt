@@ -1,0 +1,9 @@
+D:\Projects\Telerik\C# Fundamentals\Theme 3\3.11 3rd Bit\bin\Debug\3.11 3rd Bit.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 3\3.11 3rd Bit\obj\Debug\3.11 3rd Bit.csprojResolveAssemblyReference.cache
+D:\Projects\Telerik\C# Fundamentals\Theme 3\3.11 3rd Bit\bin\Debug\3.11 3rd Bit.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 3\3.11 3rd Bit\bin\Debug\3.11 3rd Bit.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 3\3.11 3rd Bit\obj\Debug\3.11 3rd Bit.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 3\3.11 3rd Bit\obj\Debug\3.11 3rd Bit.pdb
+D:\Projects\Telerik\!Autumn 2016\C# Fundamentals\Theme 06 Operators and Expressions\3.11 3rd Bit\bin\Debug\3.11 3rd Bit.exe.config
+D:\Projects\Telerik\!Autumn 2016\C# Fundamentals\Theme 06 Operators and Expressions\3.11 3rd Bit\obj\Debug\3.11 3rd Bit.exe
+D:\Projects\Telerik\!Autumn 2016\C# Fundamentals\Theme 06 Operators and Expressions\3.11 3rd Bit\obj\Debug\3.11 3rd Bit.pdb

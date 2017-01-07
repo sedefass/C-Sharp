@@ -1,0 +1,5 @@
+D:\Projects\Telerik\C# Fundamentals\Theme 1\1.07 First and Last Name\bin\Debug\1.07 First and Last Name.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 1\1.07 First and Last Name\bin\Debug\1.07 First and Last Name.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 1\1.07 First and Last Name\bin\Debug\1.07 First and Last Name.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 1\1.07 First and Last Name\obj\Debug\1.07 First and Last Name.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 1\1.07 First and Last Name\obj\Debug\1.07 First and Last Name.pdb

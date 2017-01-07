@@ -1,0 +1,6 @@
+D:\Projects\Telerik\C# Fundamentals\Theme 09 Loops\6.13 Decimal to Hex\bin\Debug\6.13 Decimal to Hex.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 09 Loops\6.13 Decimal to Hex\bin\Debug\6.13 Decimal to Hex.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 09 Loops\6.13 Decimal to Hex\bin\Debug\6.13 Decimal to Hex.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 09 Loops\6.13 Decimal to Hex\obj\Debug\6.13 Decimal to Hex.csprojResolveAssemblyReference.cache
+D:\Projects\Telerik\C# Fundamentals\Theme 09 Loops\6.13 Decimal to Hex\obj\Debug\6.13 Decimal to Hex.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 09 Loops\6.13 Decimal to Hex\obj\Debug\6.13 Decimal to Hex.pdb

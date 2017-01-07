@@ -1,0 +1,9 @@
+D:\Projects\Telerik\C# Fundamentals\Theme 10 Arrays\7.18 Remove elements from array\bin\Debug\7.18 Remove elements from array.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 10 Arrays\7.18 Remove elements from array\bin\Debug\7.18 Remove elements from array.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 10 Arrays\7.18 Remove elements from array\bin\Debug\7.18 Remove elements from array.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 10 Arrays\7.18 Remove elements from array\obj\Debug\7.18 Remove elements from array.csprojResolveAssemblyReference.cache
+D:\Projects\Telerik\C# Fundamentals\Theme 10 Arrays\7.18 Remove elements from array\obj\Debug\7.18 Remove elements from array.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 10 Arrays\7.18 Remove elements from array\obj\Debug\7.18 Remove elements from array.pdb
+D:\Projects\Telerik\!Autumn 2016\C# Fundamentals\Theme 10 Arrays\7.18 Remove elements from array\bin\Debug\7.18 Remove elements from array.exe.config
+D:\Projects\Telerik\!Autumn 2016\C# Fundamentals\Theme 10 Arrays\7.18 Remove elements from array\obj\Debug\7.18 Remove elements from array.exe
+D:\Projects\Telerik\!Autumn 2016\C# Fundamentals\Theme 10 Arrays\7.18 Remove elements from array\obj\Debug\7.18 Remove elements from array.pdb

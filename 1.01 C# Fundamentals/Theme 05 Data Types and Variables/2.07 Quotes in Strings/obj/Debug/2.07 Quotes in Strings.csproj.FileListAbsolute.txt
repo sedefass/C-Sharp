@@ -1,0 +1,6 @@
+D:\Projects\Telerik\C# Fundamentals\Theme 2\2.07 Quotes in Strings\bin\Debug\2.07 Quotes in Strings.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 2\2.07 Quotes in Strings\obj\Debug\2.07 Quotes in Strings.csprojResolveAssemblyReference.cache
+D:\Projects\Telerik\C# Fundamentals\Theme 2\2.07 Quotes in Strings\bin\Debug\2.07 Quotes in Strings.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 2\2.07 Quotes in Strings\bin\Debug\2.07 Quotes in Strings.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 2\2.07 Quotes in Strings\obj\Debug\2.07 Quotes in Strings.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 2\2.07 Quotes in Strings\obj\Debug\2.07 Quotes in Strings.pdb

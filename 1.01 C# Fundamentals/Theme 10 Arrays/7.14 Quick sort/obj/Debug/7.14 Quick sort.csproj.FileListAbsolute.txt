@@ -1,0 +1,6 @@
+D:\Projects\Telerik\C# Fundamentals\Theme 10 Arrays\7.14 Quick sort\bin\Debug\7.14 Quick sort.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 10 Arrays\7.14 Quick sort\bin\Debug\7.14 Quick sort.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 10 Arrays\7.14 Quick sort\bin\Debug\7.14 Quick sort.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 10 Arrays\7.14 Quick sort\obj\Debug\7.14 Quick sort.csprojResolveAssemblyReference.cache
+D:\Projects\Telerik\C# Fundamentals\Theme 10 Arrays\7.14 Quick sort\obj\Debug\7.14 Quick sort.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 10 Arrays\7.14 Quick sort\obj\Debug\7.14 Quick sort.pdb

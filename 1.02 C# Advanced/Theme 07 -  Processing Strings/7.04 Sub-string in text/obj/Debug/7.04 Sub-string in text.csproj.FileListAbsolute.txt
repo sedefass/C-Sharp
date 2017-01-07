@@ -1,0 +1,9 @@
+D:\Projects\Telerik\C# Advanced\Theme 06 -  Processing Strings\7.04 Sub-string in text\bin\Debug\7.04 Sub-string in text.exe.config
+D:\Projects\Telerik\C# Advanced\Theme 06 -  Processing Strings\7.04 Sub-string in text\bin\Debug\7.04 Sub-string in text.exe
+D:\Projects\Telerik\C# Advanced\Theme 06 -  Processing Strings\7.04 Sub-string in text\bin\Debug\7.04 Sub-string in text.pdb
+D:\Projects\Telerik\C# Advanced\Theme 06 -  Processing Strings\7.04 Sub-string in text\obj\Debug\7.04 Sub-string in text.csprojResolveAssemblyReference.cache
+D:\Projects\Telerik\C# Advanced\Theme 06 -  Processing Strings\7.04 Sub-string in text\obj\Debug\7.04 Sub-string in text.exe
+D:\Projects\Telerik\C# Advanced\Theme 06 -  Processing Strings\7.04 Sub-string in text\obj\Debug\7.04 Sub-string in text.pdb
+D:\Projects\Telerik\C# Advanced\Theme 07 -  Processing Strings\7.04 Sub-string in text\bin\Debug\7.04 Sub-string in text.exe.config
+D:\Projects\Telerik\C# Advanced\Theme 07 -  Processing Strings\7.04 Sub-string in text\obj\Debug\7.04 Sub-string in text.exe
+D:\Projects\Telerik\C# Advanced\Theme 07 -  Processing Strings\7.04 Sub-string in text\obj\Debug\7.04 Sub-string in text.pdb

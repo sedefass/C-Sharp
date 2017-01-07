@@ -1,0 +1,5 @@
+D:\Projects\Telerik\C# Fundamentals\Theme 10 Arrays\7.20 Variations of set II no repeating\bin\Debug\7.20 Variations of set II no repeating.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 10 Arrays\7.20 Variations of set II no repeating\bin\Debug\7.20 Variations of set II no repeating.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 10 Arrays\7.20 Variations of set II no repeating\bin\Debug\7.20 Variations of set II no repeating.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 10 Arrays\7.20 Variations of set II no repeating\obj\Debug\7.20 Variations of set II no repeating.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 10 Arrays\7.20 Variations of set II no repeating\obj\Debug\7.20 Variations of set II no repeating.pdb

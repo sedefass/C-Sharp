@@ -1,0 +1,5 @@
+D:\Projects\Telerik\C# Fundamentals\Exam\Exam C-Sharp Fundamentals\Task_04\bin\Debug\Task_04.exe.config
+D:\Projects\Telerik\C# Fundamentals\Exam\Exam C-Sharp Fundamentals\Task_04\bin\Debug\Task_04.exe
+D:\Projects\Telerik\C# Fundamentals\Exam\Exam C-Sharp Fundamentals\Task_04\bin\Debug\Task_04.pdb
+D:\Projects\Telerik\C# Fundamentals\Exam\Exam C-Sharp Fundamentals\Task_04\obj\Debug\Task_04.exe
+D:\Projects\Telerik\C# Fundamentals\Exam\Exam C-Sharp Fundamentals\Task_04\obj\Debug\Task_04.pdb

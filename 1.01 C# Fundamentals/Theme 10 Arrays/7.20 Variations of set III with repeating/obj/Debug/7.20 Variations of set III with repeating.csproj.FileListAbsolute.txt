@@ -1,0 +1,5 @@
+D:\Projects\Telerik\C# Fundamentals\Theme 10 Arrays\7.20 Variations of set III with repeating\bin\Debug\7.20 Variations of set III with repeating.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 10 Arrays\7.20 Variations of set III with repeating\bin\Debug\7.20 Variations of set III with repeating.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 10 Arrays\7.20 Variations of set III with repeating\bin\Debug\7.20 Variations of set III with repeating.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 10 Arrays\7.20 Variations of set III with repeating\obj\Debug\7.20 Variations of set III with repeating.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 10 Arrays\7.20 Variations of set III with repeating\obj\Debug\7.20 Variations of set III with repeating.pdb

@@ -1,0 +1,9 @@
+D:\Projects\Telerik\C# Fundamentals\Theme 10 Arrays\7.12 Index of letters\bin\Debug\7.12 Index of letters.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 10 Arrays\7.12 Index of letters\bin\Debug\7.12 Index of letters.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 10 Arrays\7.12 Index of letters\bin\Debug\7.12 Index of letters.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 10 Arrays\7.12 Index of letters\obj\Debug\7.12 Index of letters.csprojResolveAssemblyReference.cache
+D:\Projects\Telerik\C# Fundamentals\Theme 10 Arrays\7.12 Index of letters\obj\Debug\7.12 Index of letters.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 10 Arrays\7.12 Index of letters\obj\Debug\7.12 Index of letters.pdb
+D:\Projects\Telerik\!Autumn 2016\C# Fundamentals\Theme 10 Arrays\7.12 Index of letters\bin\Debug\7.12 Index of letters.exe.config
+D:\Projects\Telerik\!Autumn 2016\C# Fundamentals\Theme 10 Arrays\7.12 Index of letters\obj\Debug\7.12 Index of letters.exe
+D:\Projects\Telerik\!Autumn 2016\C# Fundamentals\Theme 10 Arrays\7.12 Index of letters\obj\Debug\7.12 Index of letters.pdb

@@ -1,0 +1,6 @@
+D:\Projects\Telerik\C# Fundamentals\Theme 1\1.16 Print Long Sequence\bin\Debug\1.16 Print Long Sequence.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 1\1.16 Print Long Sequence\bin\Debug\1.16 Print Long Sequence.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 1\1.16 Print Long Sequence\bin\Debug\1.16 Print Long Sequence.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 1\1.16 Print Long Sequence\obj\Debug\1.16 Print Long Sequence.csprojResolveAssemblyReference.cache
+D:\Projects\Telerik\C# Fundamentals\Theme 1\1.16 Print Long Sequence\obj\Debug\1.16 Print Long Sequence.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 1\1.16 Print Long Sequence\obj\Debug\1.16 Print Long Sequence.pdb

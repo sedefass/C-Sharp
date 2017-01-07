@@ -1,0 +1,8 @@
+D:\Projects\Telerik\C# Fundamentals\Theme 10 Arrays\7.13 Merge sort\bin\Debug\7.13 Merge sort.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 10 Arrays\7.13 Merge sort\bin\Debug\7.13 Merge sort.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 10 Arrays\7.13 Merge sort\bin\Debug\7.13 Merge sort.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 10 Arrays\7.13 Merge sort\obj\Debug\7.13 Merge sort.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 10 Arrays\7.13 Merge sort\obj\Debug\7.13 Merge sort.pdb
+D:\Projects\Telerik\!Autumn 2016\C# Fundamentals\Theme 10 Arrays\7.13 Merge sort\bin\Debug\7.13 Merge sort.exe.config
+D:\Projects\Telerik\!Autumn 2016\C# Fundamentals\Theme 10 Arrays\7.13 Merge sort\obj\Debug\7.13 Merge sort.exe
+D:\Projects\Telerik\!Autumn 2016\C# Fundamentals\Theme 10 Arrays\7.13 Merge sort\obj\Debug\7.13 Merge sort.pdb

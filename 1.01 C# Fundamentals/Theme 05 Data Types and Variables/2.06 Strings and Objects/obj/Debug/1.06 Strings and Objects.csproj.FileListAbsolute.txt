@@ -1,0 +1,5 @@
+D:\Projects\Telerik\C# Fundamentals\Theme 2\1.06 Strings and Objects\bin\Debug\1.06 Strings and Objects.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 2\1.06 Strings and Objects\bin\Debug\1.06 Strings and Objects.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 2\1.06 Strings and Objects\bin\Debug\1.06 Strings and Objects.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 2\1.06 Strings and Objects\obj\Debug\1.06 Strings and Objects.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 2\1.06 Strings and Objects\obj\Debug\1.06 Strings and Objects.pdb

@@ -1,0 +1,5 @@
+D:\Projects\Telerik\C# Fundamentals\Theme 09 Loops\6.14 Hex to Decimal\bin\Debug\6.14 Hex to Decimal.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 09 Loops\6.14 Hex to Decimal\bin\Debug\6.14 Hex to Decimal.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 09 Loops\6.14 Hex to Decimal\bin\Debug\6.14 Hex to Decimal.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 09 Loops\6.14 Hex to Decimal\obj\Debug\6.14 Hex to Decimal.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 09 Loops\6.14 Hex to Decimal\obj\Debug\6.14 Hex to Decimal.pdb

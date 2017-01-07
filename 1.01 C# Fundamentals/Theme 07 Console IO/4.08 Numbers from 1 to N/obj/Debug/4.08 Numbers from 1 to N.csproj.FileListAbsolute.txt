@@ -1,0 +1,8 @@
+D:\Projects\Telerik\C# Fundamentals\Theme 4\4.08 Numbers from 1 to N\bin\Debug\4.08 Numbers from 1 to N.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 4\4.08 Numbers from 1 to N\bin\Debug\4.08 Numbers from 1 to N.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 4\4.08 Numbers from 1 to N\bin\Debug\4.08 Numbers from 1 to N.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 4\4.08 Numbers from 1 to N\obj\Debug\4.08 Numbers from 1 to N.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 4\4.08 Numbers from 1 to N\obj\Debug\4.08 Numbers from 1 to N.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 4 Console IO\4.08 Numbers from 1 to N\bin\Debug\4.08 Numbers from 1 to N.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 4 Console IO\4.08 Numbers from 1 to N\obj\Debug\4.08 Numbers from 1 to N.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 4 Console IO\4.08 Numbers from 1 to N\obj\Debug\4.08 Numbers from 1 to N.pdb

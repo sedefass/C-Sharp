@@ -1,0 +1,1 @@
+D:\Projects\Telerik\C# Advanced\Theme 05 - Using Classes and Objects\5.02 Random numbers\bin\Debug\5.02 Random numbers.exe.config

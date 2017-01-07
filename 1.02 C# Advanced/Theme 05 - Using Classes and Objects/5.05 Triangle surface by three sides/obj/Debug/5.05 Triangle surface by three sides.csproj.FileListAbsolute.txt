@@ -1,0 +1,5 @@
+D:\Projects\Telerik\C# Advanced\Theme 05 - Using Classes and Objects\5.05 Triangle surface by three sides\bin\Debug\5.05 Triangle surface by three sides.exe.config
+D:\Projects\Telerik\C# Advanced\Theme 05 - Using Classes and Objects\5.05 Triangle surface by three sides\bin\Debug\5.05 Triangle surface by three sides.exe
+D:\Projects\Telerik\C# Advanced\Theme 05 - Using Classes and Objects\5.05 Triangle surface by three sides\bin\Debug\5.05 Triangle surface by three sides.pdb
+D:\Projects\Telerik\C# Advanced\Theme 05 - Using Classes and Objects\5.05 Triangle surface by three sides\obj\Debug\5.05 Triangle surface by three sides.exe
+D:\Projects\Telerik\C# Advanced\Theme 05 - Using Classes and Objects\5.05 Triangle surface by three sides\obj\Debug\5.05 Triangle surface by three sides.pdb

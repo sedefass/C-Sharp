@@ -1,0 +1,8 @@
+D:\Projects\Telerik\C# Fundamentals\Theme 2\Unicode Character\bin\Debug\Unicode Character.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 2\Unicode Character\obj\Debug\Unicode Character.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 2\Unicode Character\obj\Debug\Unicode Character.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 2\Unicode Character\bin\Debug\Unicode Character.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 2\Unicode Character\bin\Debug\Unicode Character.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 2\2.04 Unicode Character\bin\Debug\Unicode Character.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 2\2.04 Unicode Character\obj\Debug\Unicode Character.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 2\2.04 Unicode Character\obj\Debug\Unicode Character.pdb

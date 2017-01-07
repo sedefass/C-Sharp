@@ -1,0 +1,6 @@
+D:\Projects\Telerik\C# Fundamentals\Theme 4\4.12 Falling Objects\bin\Debug\4.12 Falling Objects.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 4\4.12 Falling Objects\bin\Debug\4.12 Falling Objects.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 4\4.12 Falling Objects\bin\Debug\4.12 Falling Objects.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 4\4.12 Falling Objects\obj\Debug\4.12 Falling Objects.csprojResolveAssemblyReference.cache
+D:\Projects\Telerik\C# Fundamentals\Theme 4\4.12 Falling Objects\obj\Debug\4.12 Falling Objects.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 4\4.12 Falling Objects\obj\Debug\4.12 Falling Objects.pdb

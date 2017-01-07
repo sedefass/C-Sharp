@@ -1,0 +1,9 @@
+D:\Projects\Telerik\C# Fundamentals\Theme 10 Arrays\7.15 Prime numbers (Sieve of Eratosthenes)\bin\Debug\7.15 Prime numbers (Sieve of Eratosthenes).exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 10 Arrays\7.15 Prime numbers (Sieve of Eratosthenes)\bin\Debug\7.15 Prime numbers (Sieve of Eratosthenes).exe
+D:\Projects\Telerik\C# Fundamentals\Theme 10 Arrays\7.15 Prime numbers (Sieve of Eratosthenes)\bin\Debug\7.15 Prime numbers (Sieve of Eratosthenes).pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 10 Arrays\7.15 Prime numbers (Sieve of Eratosthenes)\obj\Debug\7.15 Prime numbers (Sieve of Eratosthenes).csprojResolveAssemblyReference.cache
+D:\Projects\Telerik\C# Fundamentals\Theme 10 Arrays\7.15 Prime numbers (Sieve of Eratosthenes)\obj\Debug\7.15 Prime numbers (Sieve of Eratosthenes).exe
+D:\Projects\Telerik\C# Fundamentals\Theme 10 Arrays\7.15 Prime numbers (Sieve of Eratosthenes)\obj\Debug\7.15 Prime numbers (Sieve of Eratosthenes).pdb
+D:\Projects\Telerik\!Autumn 2016\C# Fundamentals\Theme 10 Arrays\7.15 Prime numbers (Sieve of Eratosthenes)\bin\Debug\7.15 Prime numbers (Sieve of Eratosthenes).exe.config
+D:\Projects\Telerik\!Autumn 2016\C# Fundamentals\Theme 10 Arrays\7.15 Prime numbers (Sieve of Eratosthenes)\obj\Debug\7.15 Prime numbers (Sieve of Eratosthenes).exe
+D:\Projects\Telerik\!Autumn 2016\C# Fundamentals\Theme 10 Arrays\7.15 Prime numbers (Sieve of Eratosthenes)\obj\Debug\7.15 Prime numbers (Sieve of Eratosthenes).pdb

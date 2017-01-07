@@ -1,0 +1,9 @@
+D:\Projects\Telerik\C# Fundamentals\Theme 4\Test\bin\Debug\Test.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 4\Test\bin\Debug\Test.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 4\Test\bin\Debug\Test.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 4\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+D:\Projects\Telerik\C# Fundamentals\Theme 4\Test\obj\Debug\Test.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 4\Test\obj\Debug\Test.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 07 Console IO\Test\bin\Debug\Test.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 07 Console IO\Test\obj\Debug\Test.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 07 Console IO\Test\obj\Debug\Test.pdb

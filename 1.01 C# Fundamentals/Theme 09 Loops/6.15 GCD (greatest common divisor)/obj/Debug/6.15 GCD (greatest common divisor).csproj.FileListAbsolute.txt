@@ -1,0 +1,6 @@
+D:\Projects\Telerik\C# Fundamentals\Theme 09 Loops\6.15 GCD (greatest common divisor)\bin\Debug\6.15 GCD (greatest common divisor).exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 09 Loops\6.15 GCD (greatest common divisor)\bin\Debug\6.15 GCD (greatest common divisor).exe
+D:\Projects\Telerik\C# Fundamentals\Theme 09 Loops\6.15 GCD (greatest common divisor)\bin\Debug\6.15 GCD (greatest common divisor).pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 09 Loops\6.15 GCD (greatest common divisor)\obj\Debug\6.15 GCD (greatest common divisor).csprojResolveAssemblyReference.cache
+D:\Projects\Telerik\C# Fundamentals\Theme 09 Loops\6.15 GCD (greatest common divisor)\obj\Debug\6.15 GCD (greatest common divisor).exe
+D:\Projects\Telerik\C# Fundamentals\Theme 09 Loops\6.15 GCD (greatest common divisor)\obj\Debug\6.15 GCD (greatest common divisor).pdb

@@ -1,0 +1,5 @@
+D:\Projects\Telerik\C# Fundamentals\Theme 10 Arrays\7.02 Compare arrays\bin\Debug\7.02 Compare arrays.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 10 Arrays\7.02 Compare arrays\bin\Debug\7.02 Compare arrays.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 10 Arrays\7.02 Compare arrays\bin\Debug\7.02 Compare arrays.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 10 Arrays\7.02 Compare arrays\obj\Debug\7.02 Compare arrays.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 10 Arrays\7.02 Compare arrays\obj\Debug\7.02 Compare arrays.pdb

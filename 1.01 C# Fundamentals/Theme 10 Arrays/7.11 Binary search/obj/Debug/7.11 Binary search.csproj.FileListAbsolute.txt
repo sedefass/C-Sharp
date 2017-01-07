@@ -1,0 +1,9 @@
+D:\Projects\Telerik\C# Fundamentals\Theme 10 Arrays\7.11 Binary search\bin\Debug\7.11 Binary search.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 10 Arrays\7.11 Binary search\bin\Debug\7.11 Binary search.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 10 Arrays\7.11 Binary search\bin\Debug\7.11 Binary search.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 10 Arrays\7.11 Binary search\obj\Debug\7.11 Binary search.csprojResolveAssemblyReference.cache
+D:\Projects\Telerik\C# Fundamentals\Theme 10 Arrays\7.11 Binary search\obj\Debug\7.11 Binary search.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 10 Arrays\7.11 Binary search\obj\Debug\7.11 Binary search.pdb
+D:\Projects\Telerik\!Autumn 2016\C# Fundamentals\Theme 10 Arrays\7.11 Binary search\bin\Debug\7.11 Binary search.exe.config
+D:\Projects\Telerik\!Autumn 2016\C# Fundamentals\Theme 10 Arrays\7.11 Binary search\obj\Debug\7.11 Binary search.exe
+D:\Projects\Telerik\!Autumn 2016\C# Fundamentals\Theme 10 Arrays\7.11 Binary search\obj\Debug\7.11 Binary search.pdb

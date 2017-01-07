@@ -1,0 +1,6 @@
+c:\users\study\documents\visual studio 2015\Projects\Solution1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\study\documents\visual studio 2015\Projects\Solution1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\study\documents\visual studio 2015\Projects\Solution1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

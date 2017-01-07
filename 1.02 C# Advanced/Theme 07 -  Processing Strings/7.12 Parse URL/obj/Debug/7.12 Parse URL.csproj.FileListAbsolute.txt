@@ -1,0 +1,6 @@
+D:\Projects\Telerik\C# Advanced\Theme 07 -  Processing Strings\7.12 Parse URL\bin\Debug\7.12 Parse URL.exe.config
+D:\Projects\Telerik\C# Advanced\Theme 07 -  Processing Strings\7.12 Parse URL\bin\Debug\7.12 Parse URL.exe
+D:\Projects\Telerik\C# Advanced\Theme 07 -  Processing Strings\7.12 Parse URL\bin\Debug\7.12 Parse URL.pdb
+D:\Projects\Telerik\C# Advanced\Theme 07 -  Processing Strings\7.12 Parse URL\obj\Debug\7.12 Parse URL.csprojResolveAssemblyReference.cache
+D:\Projects\Telerik\C# Advanced\Theme 07 -  Processing Strings\7.12 Parse URL\obj\Debug\7.12 Parse URL.exe
+D:\Projects\Telerik\C# Advanced\Theme 07 -  Processing Strings\7.12 Parse URL\obj\Debug\7.12 Parse URL.pdb

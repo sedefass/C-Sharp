@@ -1,0 +1,5 @@
+D:\Projects\Telerik\C# Fundamentals\Theme 3\3.15 BitSwap\bin\Debug\3.15 BitSwap.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 3\3.15 BitSwap\bin\Debug\3.15 BitSwap.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 3\3.15 BitSwap\bin\Debug\3.15 BitSwap.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 3\3.15 BitSwap\obj\Debug\3.15 BitSwap.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 3\3.15 BitSwap\obj\Debug\3.15 BitSwap.pdb

@@ -1,0 +1,9 @@
+D:\Projects\Telerik\C# Fundamentals\Theme 6 Loops\6.07 Calculate 3!\bin\Debug\6.07 Calculate 3!.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 6 Loops\6.07 Calculate 3!\bin\Debug\6.07 Calculate 3!.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 6 Loops\6.07 Calculate 3!\bin\Debug\6.07 Calculate 3!.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 6 Loops\6.07 Calculate 3!\obj\Debug\6.07 Calculate 3!.csprojResolveAssemblyReference.cache
+D:\Projects\Telerik\C# Fundamentals\Theme 6 Loops\6.07 Calculate 3!\obj\Debug\6.07 Calculate 3!.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 6 Loops\6.07 Calculate 3!\obj\Debug\6.07 Calculate 3!.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 09 Loops\6.07 Calculate 3!\bin\Debug\6.07 Calculate 3!.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 09 Loops\6.07 Calculate 3!\obj\Debug\6.07 Calculate 3!.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 09 Loops\6.07 Calculate 3!\obj\Debug\6.07 Calculate 3!.pdb

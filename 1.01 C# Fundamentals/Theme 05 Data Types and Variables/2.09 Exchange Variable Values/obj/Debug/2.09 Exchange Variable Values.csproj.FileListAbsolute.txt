@@ -1,0 +1,5 @@
+D:\Projects\Telerik\C# Fundamentals\Theme 2\2.09 Exchange Variable Values\bin\Debug\2.09 Exchange Variable Values.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 2\2.09 Exchange Variable Values\bin\Debug\2.09 Exchange Variable Values.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 2\2.09 Exchange Variable Values\bin\Debug\2.09 Exchange Variable Values.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 2\2.09 Exchange Variable Values\obj\Debug\2.09 Exchange Variable Values.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 2\2.09 Exchange Variable Values\obj\Debug\2.09 Exchange Variable Values.pdb

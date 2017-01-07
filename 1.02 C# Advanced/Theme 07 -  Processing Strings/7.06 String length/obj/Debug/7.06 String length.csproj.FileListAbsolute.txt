@@ -1,0 +1,6 @@
+D:\Projects\Telerik\C# Advanced\Theme 06 -  Processing Strings\7.06 String length\bin\Debug\7.06 String length.exe.config
+D:\Projects\Telerik\C# Advanced\Theme 06 -  Processing Strings\7.06 String length\bin\Debug\7.06 String length.exe
+D:\Projects\Telerik\C# Advanced\Theme 06 -  Processing Strings\7.06 String length\bin\Debug\7.06 String length.pdb
+D:\Projects\Telerik\C# Advanced\Theme 06 -  Processing Strings\7.06 String length\obj\Debug\7.06 String length.csprojResolveAssemblyReference.cache
+D:\Projects\Telerik\C# Advanced\Theme 06 -  Processing Strings\7.06 String length\obj\Debug\7.06 String length.exe
+D:\Projects\Telerik\C# Advanced\Theme 06 -  Processing Strings\7.06 String length\obj\Debug\7.06 String length.pdb

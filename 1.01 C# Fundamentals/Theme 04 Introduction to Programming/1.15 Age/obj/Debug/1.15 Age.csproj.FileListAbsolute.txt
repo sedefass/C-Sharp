@@ -1,0 +1,6 @@
+D:\Projects\Telerik\C# Fundamentals\Theme 1\1.15 Age\bin\Debug\1.15 Age.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 1\1.15 Age\bin\Debug\1.15 Age.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 1\1.15 Age\bin\Debug\1.15 Age.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 1\1.15 Age\obj\Debug\1.15 Age.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 1\1.15 Age\obj\Debug\1.15 Age.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 1\1.15 Age\obj\Debug\1.15 Age.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+D:\Projects\Telerik\C# Fundamentals\Theme 7\7.01 Allocate array\bin\Debug\7.01 Allocate array.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 7 Arrays\7.01 Allocate array\bin\Debug\7.01 Allocate array.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 10 Arrays\7.01 Allocate array\bin\Debug\7.01 Allocate array.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 10 Arrays\7.01 Allocate array\bin\Debug\7.01 Allocate array.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 10 Arrays\7.01 Allocate array\bin\Debug\7.01 Allocate array.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 10 Arrays\7.01 Allocate array\obj\Debug\7.01 Allocate array.csprojResolveAssemblyReference.cache
+D:\Projects\Telerik\C# Fundamentals\Theme 10 Arrays\7.01 Allocate array\obj\Debug\7.01 Allocate array.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 10 Arrays\7.01 Allocate array\obj\Debug\7.01 Allocate array.pdb
+D:\Projects\Telerik\!Autumn 2016\C# Fundamentals\Theme 10 Arrays\7.01 Allocate array\bin\Debug\7.01 Allocate array.exe.config
+D:\Projects\Telerik\!Autumn 2016\C# Fundamentals\Theme 10 Arrays\7.01 Allocate array\obj\Debug\7.01 Allocate array.exe
+D:\Projects\Telerik\!Autumn 2016\C# Fundamentals\Theme 10 Arrays\7.01 Allocate array\obj\Debug\7.01 Allocate array.pdb

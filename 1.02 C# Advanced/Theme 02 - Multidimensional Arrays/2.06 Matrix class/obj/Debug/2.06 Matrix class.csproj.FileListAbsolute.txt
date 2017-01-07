@@ -1,0 +1,1 @@
+D:\Projects\Telerik\C# Advanced\Theme 02 - Multidimensional Arrays\2.06 Matrix class\bin\Debug\2.06 Matrix class.exe.config

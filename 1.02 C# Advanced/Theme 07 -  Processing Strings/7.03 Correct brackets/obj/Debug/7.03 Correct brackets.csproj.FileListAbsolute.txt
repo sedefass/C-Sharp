@@ -1,0 +1,9 @@
+D:\Projects\Telerik\C# Advanced\Theme 06 -  Processing Strings\7.03 Correct brackets\bin\Debug\7.03 Correct brackets.exe.config
+D:\Projects\Telerik\C# Advanced\Theme 06 -  Processing Strings\7.03 Correct brackets\bin\Debug\7.03 Correct brackets.exe
+D:\Projects\Telerik\C# Advanced\Theme 06 -  Processing Strings\7.03 Correct brackets\bin\Debug\7.03 Correct brackets.pdb
+D:\Projects\Telerik\C# Advanced\Theme 06 -  Processing Strings\7.03 Correct brackets\obj\Debug\7.03 Correct brackets.csprojResolveAssemblyReference.cache
+D:\Projects\Telerik\C# Advanced\Theme 06 -  Processing Strings\7.03 Correct brackets\obj\Debug\7.03 Correct brackets.exe
+D:\Projects\Telerik\C# Advanced\Theme 06 -  Processing Strings\7.03 Correct brackets\obj\Debug\7.03 Correct brackets.pdb
+D:\Projects\Telerik\C# Advanced\Theme 07 -  Processing Strings\7.03 Correct brackets\bin\Debug\7.03 Correct brackets.exe.config
+D:\Projects\Telerik\C# Advanced\Theme 07 -  Processing Strings\7.03 Correct brackets\obj\Debug\7.03 Correct brackets.exe
+D:\Projects\Telerik\C# Advanced\Theme 07 -  Processing Strings\7.03 Correct brackets\obj\Debug\7.03 Correct brackets.pdb

@@ -1,0 +1,9 @@
+D:\Projects\Telerik\C# Fundamentals\Theme 5 Conditional Statements\5.04 Multiplication sign\bin\Debug\5.04 Multiplication sign.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 5 Conditional Statements\5.04 Multiplication sign\bin\Debug\5.04 Multiplication sign.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 5 Conditional Statements\5.04 Multiplication sign\bin\Debug\5.04 Multiplication sign.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 5 Conditional Statements\5.04 Multiplication sign\obj\Debug\5.04 Multiplication sign.csprojResolveAssemblyReference.cache
+D:\Projects\Telerik\C# Fundamentals\Theme 5 Conditional Statements\5.04 Multiplication sign\obj\Debug\5.04 Multiplication sign.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 5 Conditional Statements\5.04 Multiplication sign\obj\Debug\5.04 Multiplication sign.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 08 Conditional Statements\5.04 Multiplication sign\bin\Debug\5.04 Multiplication sign.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 08 Conditional Statements\5.04 Multiplication sign\obj\Debug\5.04 Multiplication sign.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 08 Conditional Statements\5.04 Multiplication sign\obj\Debug\5.04 Multiplication sign.pdb

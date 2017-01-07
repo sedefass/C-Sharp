@@ -1,0 +1,13 @@
+D:\Projects\Telerik\C# Fundamentals\Theme 6\6.01 Numbers from 1 to N\bin\Debug\6.01 Numbers from 1 to N.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 6 Loops\6.01 Numbers from 1 to N\bin\Debug\6.01 Numbers from 1 to N.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 6 Loops\6.01 Numbers from 1 to N\bin\Debug\6.01 Numbers from 1 to N.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 6 Loops\6.01 Numbers from 1 to N\bin\Debug\6.01 Numbers from 1 to N.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 6 Loops\6.01 Numbers from 1 to N\obj\Debug\6.01 Numbers from 1 to N.csprojResolveAssemblyReference.cache
+D:\Projects\Telerik\C# Fundamentals\Theme 6 Loops\6.01 Numbers from 1 to N\obj\Debug\6.01 Numbers from 1 to N.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 6 Loops\6.01 Numbers from 1 to N\obj\Debug\6.01 Numbers from 1 to N.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 09 Loops\6.01 Numbers from 1 to N\bin\Debug\6.01 Numbers from 1 to N.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 09 Loops\6.01 Numbers from 1 to N\obj\Debug\6.01 Numbers from 1 to N.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 09 Loops\6.01 Numbers from 1 to N\obj\Debug\6.01 Numbers from 1 to N.pdb
+D:\Projects\Telerik\!Autumn 2016\C# Fundamentals\Theme 09 Loops\6.01 Numbers from 1 to N\bin\Debug\6.01 Numbers from 1 to N.exe.config
+D:\Projects\Telerik\!Autumn 2016\C# Fundamentals\Theme 09 Loops\6.01 Numbers from 1 to N\obj\Debug\6.01 Numbers from 1 to N.exe
+D:\Projects\Telerik\!Autumn 2016\C# Fundamentals\Theme 09 Loops\6.01 Numbers from 1 to N\obj\Debug\6.01 Numbers from 1 to N.pdb

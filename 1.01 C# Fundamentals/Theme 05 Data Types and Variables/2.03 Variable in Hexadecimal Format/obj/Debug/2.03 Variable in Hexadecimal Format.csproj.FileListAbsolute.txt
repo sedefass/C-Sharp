@@ -1,0 +1,6 @@
+D:\Projects\Telerik\C# Fundamentals\Theme 2\2.03 Variable in Hexadecimal Format\bin\Debug\2.03.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 2\2.03 Variable in Hexadecimal Format\obj\Debug\2.03.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 2\2.03 Variable in Hexadecimal Format\obj\Debug\2.03.pdb
+D:\Projects\Telerik\!Autumn 2016\C# Fundamentals\Theme 05 Data Types and Variables\2.03 Variable in Hexadecimal Format\bin\Debug\2.03.exe.config
+D:\Projects\Telerik\!Autumn 2016\C# Fundamentals\Theme 05 Data Types and Variables\2.03 Variable in Hexadecimal Format\obj\Debug\2.03.exe
+D:\Projects\Telerik\!Autumn 2016\C# Fundamentals\Theme 05 Data Types and Variables\2.03 Variable in Hexadecimal Format\obj\Debug\2.03.pdb

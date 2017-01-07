@@ -1,0 +1,21 @@
+D:\Projects\Telerik\C# Fundamentals\6.11 Binary to Decimal\6.11 Binary to Decimal\bin\Debug\6.11 Binary to Decimal.exe.config
+D:\Projects\Telerik\C# Fundamentals\6.11 Binary to Decimal\6.11 Binary to Decimal\obj\Debug\6.11 Binary to Decimal.csprojResolveAssemblyReference.cache
+D:\Projects\Telerik\C# Fundamentals\6.11 Binary to Decimal\6.11 Binary to Decimal\bin\Debug\6.11 Binary to Decimal.exe
+D:\Projects\Telerik\C# Fundamentals\6.11 Binary to Decimal\6.11 Binary to Decimal\bin\Debug\6.11 Binary to Decimal.pdb
+D:\Projects\Telerik\C# Fundamentals\6.11 Binary to Decimal\6.11 Binary to Decimal\obj\Debug\6.11 Binary to Decimal.exe
+D:\Projects\Telerik\C# Fundamentals\6.11 Binary to Decimal\6.11 Binary to Decimal\obj\Debug\6.11 Binary to Decimal.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 6 Loops\6.11 Binary to Decimal\6.11 Binary to Decimal\bin\Debug\6.11 Binary to Decimal.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 6 Loops\6.11 Binary to Decimal\6.11 Binary to Decimal\obj\Debug\6.11 Binary to Decimal.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 6 Loops\6.11 Binary to Decimal\6.11 Binary to Decimal\obj\Debug\6.11 Binary to Decimal.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 6 Loops\6.11 Binary to Decimal\bin\Debug\6.11 Binary to Decimal.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 6 Loops\6.11 Binary to Decimal\obj\Debug\6.11 Binary to Decimal.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 6 Loops\6.11 Binary to Decimal\obj\Debug\6.11 Binary to Decimal.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 6 Loops\6.11 Binary to Decimal\bin\Debug\6.11 Binary to Decimal.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 6 Loops\6.11 Binary to Decimal\bin\Debug\6.11 Binary to Decimal.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 6 Loops\6.11 Binary to Decimal\obj\Debug\6.11 Binary to Decimal.csprojResolveAssemblyReference.cache
+D:\Projects\Telerik\C# Fundamentals\Theme 09 Loops\6.11 Binary to Decimal\bin\Debug\6.11 Binary to Decimal.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 09 Loops\6.11 Binary to Decimal\obj\Debug\6.11 Binary to Decimal.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 09 Loops\6.11 Binary to Decimal\obj\Debug\6.11 Binary to Decimal.pdb
+D:\Projects\Telerik\!Autumn 2016\C# Fundamentals\Theme 09 Loops\6.11 Binary to Decimal\bin\Debug\6.11 Binary to Decimal.exe.config
+D:\Projects\Telerik\!Autumn 2016\C# Fundamentals\Theme 09 Loops\6.11 Binary to Decimal\obj\Debug\6.11 Binary to Decimal.exe
+D:\Projects\Telerik\!Autumn 2016\C# Fundamentals\Theme 09 Loops\6.11 Binary to Decimal\obj\Debug\6.11 Binary to Decimal.pdb

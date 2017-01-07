@@ -1,0 +1,6 @@
+D:\Projects\Telerik\C# Advanced\Theme 02 - Multidimensional Arrays\2.01 Fill the matrix\bin\Debug\2.01 Fill the matrix.exe.config
+D:\Projects\Telerik\C# Advanced\Theme 02 - Multidimensional Arrays\2.01 Fill the matrix\bin\Debug\2.01 Fill the matrix.exe
+D:\Projects\Telerik\C# Advanced\Theme 02 - Multidimensional Arrays\2.01 Fill the matrix\bin\Debug\2.01 Fill the matrix.pdb
+D:\Projects\Telerik\C# Advanced\Theme 02 - Multidimensional Arrays\2.01 Fill the matrix\obj\Debug\2.01 Fill the matrix.csprojResolveAssemblyReference.cache
+D:\Projects\Telerik\C# Advanced\Theme 02 - Multidimensional Arrays\2.01 Fill the matrix\obj\Debug\2.01 Fill the matrix.exe
+D:\Projects\Telerik\C# Advanced\Theme 02 - Multidimensional Arrays\2.01 Fill the matrix\obj\Debug\2.01 Fill the matrix.pdb

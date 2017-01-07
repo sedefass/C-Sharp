@@ -1,0 +1,12 @@
+D:\Projects\Telerik\C# Fundamentals\Theme 6 Loops\6.03 MMSA (Min, Max, Sum, Average) of N Numbers\bin\Debug\6.03 MMSA (Min, Max, Sum, Average) of N Numbers.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 6 Loops\6.03 MMSA (Min, Max, Sum, Average) of N Numbers\bin\Debug\6.03 MMSA (Min, Max, Sum, Average) of N Numbers.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 6 Loops\6.03 MMSA (Min, Max, Sum, Average) of N Numbers\bin\Debug\6.03 MMSA (Min, Max, Sum, Average) of N Numbers.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 6 Loops\6.03 MMSA (Min, Max, Sum, Average) of N Numbers\obj\Debug\6.03 MMSA (Min, Max, Sum, Average) of N Numbers.csprojResolveAssemblyReference.cache
+D:\Projects\Telerik\C# Fundamentals\Theme 6 Loops\6.03 MMSA (Min, Max, Sum, Average) of N Numbers\obj\Debug\6.03 MMSA (Min, Max, Sum, Average) of N Numbers.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 6 Loops\6.03 MMSA (Min, Max, Sum, Average) of N Numbers\obj\Debug\6.03 MMSA (Min, Max, Sum, Average) of N Numbers.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 09 Loops\6.03 MMSA (Min, Max, Sum, Average) of N Numbers\bin\Debug\6.03 MMSA (Min, Max, Sum, Average) of N Numbers.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 09 Loops\6.03 MMSA (Min, Max, Sum, Average) of N Numbers\bin\Debug\6.03 MMSA (Min, Max, Sum, Average) of N Numbers.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 09 Loops\6.03 MMSA (Min, Max, Sum, Average) of N Numbers\bin\Debug\6.03 MMSA (Min, Max, Sum, Average) of N Numbers.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 09 Loops\6.03 MMSA (Min, Max, Sum, Average) of N Numbers\obj\Debug\6.03 MMSA (Min, Max, Sum, Average) of N Numbers.csprojResolveAssemblyReference.cache
+D:\Projects\Telerik\C# Fundamentals\Theme 09 Loops\6.03 MMSA (Min, Max, Sum, Average) of N Numbers\obj\Debug\6.03 MMSA (Min, Max, Sum, Average) of N Numbers.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 09 Loops\6.03 MMSA (Min, Max, Sum, Average) of N Numbers\obj\Debug\6.03 MMSA (Min, Max, Sum, Average) of N Numbers.pdb

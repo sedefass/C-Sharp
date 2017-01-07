@@ -1,0 +1,5 @@
+D:\Projects\Telerik\C# Fundamentals\Theme 2\2.14 Print the ASCII Table\bin\Debug\2.14 Print the ASCII Table.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 2\2.14 Print the ASCII Table\bin\Debug\2.14 Print the ASCII Table.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 2\2.14 Print the ASCII Table\bin\Debug\2.14 Print the ASCII Table.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 2\2.14 Print the ASCII Table\obj\Debug\2.14 Print the ASCII Table.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 2\2.14 Print the ASCII Table\obj\Debug\2.14 Print the ASCII Table.pdb

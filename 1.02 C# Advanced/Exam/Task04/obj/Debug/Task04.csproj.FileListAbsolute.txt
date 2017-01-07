@@ -1,0 +1,5 @@
+D:\Projects\Telerik\C# Advanced\Exam\Task04\bin\Debug\Task04.exe.config
+D:\Projects\Telerik\C# Advanced\Exam\Task04\bin\Debug\Task04.exe
+D:\Projects\Telerik\C# Advanced\Exam\Task04\bin\Debug\Task04.pdb
+D:\Projects\Telerik\C# Advanced\Exam\Task04\obj\Debug\Task04.exe
+D:\Projects\Telerik\C# Advanced\Exam\Task04\obj\Debug\Task04.pdb

@@ -1,0 +1,9 @@
+D:\Projects\Telerik\C# Fundamentals\Theme 10 Arrays\7.06 Maximal K sum\bin\Debug\7.06 Maximal K sum.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 10 Arrays\7.06 Maximal K sum\bin\Debug\7.06 Maximal K sum.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 10 Arrays\7.06 Maximal K sum\bin\Debug\7.06 Maximal K sum.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 10 Arrays\7.06 Maximal K sum\obj\Debug\7.06 Maximal K sum.csprojResolveAssemblyReference.cache
+D:\Projects\Telerik\C# Fundamentals\Theme 10 Arrays\7.06 Maximal K sum\obj\Debug\7.06 Maximal K sum.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 10 Arrays\7.06 Maximal K sum\obj\Debug\7.06 Maximal K sum.pdb
+D:\Projects\Telerik\!Autumn 2016\C# Fundamentals\Theme 10 Arrays\7.06 Maximal K sum\bin\Debug\7.06 Maximal K sum.exe.config
+D:\Projects\Telerik\!Autumn 2016\C# Fundamentals\Theme 10 Arrays\7.06 Maximal K sum\obj\Debug\7.06 Maximal K sum.exe
+D:\Projects\Telerik\!Autumn 2016\C# Fundamentals\Theme 10 Arrays\7.06 Maximal K sum\obj\Debug\7.06 Maximal K sum.pdb

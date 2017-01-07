@@ -1,0 +1,6 @@
+D:\Projects\Telerik\C# Fundamentals\Theme 2\2.10 Employee Data\bin\Debug\2.10 Employee Data.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 2\2.10 Employee Data\bin\Debug\2.10 Employee Data.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 2\2.10 Employee Data\bin\Debug\2.10 Employee Data.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 2\2.10 Employee Data\obj\Debug\2.10 Employee Data.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 2\2.10 Employee Data\obj\Debug\2.10 Employee Data.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 2\2.10 Employee Data\obj\Debug\2.10 Employee Data.csprojResolveAssemblyReference.cache

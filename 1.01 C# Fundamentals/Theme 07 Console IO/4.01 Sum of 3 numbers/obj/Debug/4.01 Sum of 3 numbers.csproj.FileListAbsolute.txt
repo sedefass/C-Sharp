@@ -1,0 +1,12 @@
+D:\Projects\Telerik\C# Fundamentals\Theme 4\4.01 Sum of 3 numbers\bin\Debug\4.01 Sum of 3 numbers.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 4\4.01 Sum of 3 numbers\bin\Debug\4.01 Sum of 3 numbers.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 4\4.01 Sum of 3 numbers\bin\Debug\4.01 Sum of 3 numbers.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 4\4.01 Sum of 3 numbers\obj\Debug\4.01 Sum of 3 numbers.csprojResolveAssemblyReference.cache
+D:\Projects\Telerik\C# Fundamentals\Theme 4\4.01 Sum of 3 numbers\obj\Debug\4.01 Sum of 3 numbers.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 4\4.01 Sum of 3 numbers\obj\Debug\4.01 Sum of 3 numbers.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 4 Console IO\4.01 Sum of 3 numbers\bin\Debug\4.01 Sum of 3 numbers.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 4 Console IO\4.01 Sum of 3 numbers\obj\Debug\4.01 Sum of 3 numbers.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 4 Console IO\4.01 Sum of 3 numbers\obj\Debug\4.01 Sum of 3 numbers.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 07 Console IO\4.01 Sum of 3 numbers\bin\Debug\4.01 Sum of 3 numbers.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 07 Console IO\4.01 Sum of 3 numbers\obj\Debug\4.01 Sum of 3 numbers.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 07 Console IO\4.01 Sum of 3 numbers\obj\Debug\4.01 Sum of 3 numbers.pdb

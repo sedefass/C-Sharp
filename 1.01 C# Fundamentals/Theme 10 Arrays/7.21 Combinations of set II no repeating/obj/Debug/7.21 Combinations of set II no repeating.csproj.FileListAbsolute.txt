@@ -1,0 +1,6 @@
+D:\Projects\Telerik\C# Fundamentals\Theme 10 Arrays\7.21 Combinations of set II no repeating\bin\Debug\7.21 Combinations of set II no repeating.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 10 Arrays\7.21 Combinations of set II no repeating\bin\Debug\7.21 Combinations of set II no repeating.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 10 Arrays\7.21 Combinations of set II no repeating\bin\Debug\7.21 Combinations of set II no repeating.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 10 Arrays\7.21 Combinations of set II no repeating\obj\Debug\7.21 Combinations of set II no repeating.csprojResolveAssemblyReference.cache
+D:\Projects\Telerik\C# Fundamentals\Theme 10 Arrays\7.21 Combinations of set II no repeating\obj\Debug\7.21 Combinations of set II no repeating.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 10 Arrays\7.21 Combinations of set II no repeating\obj\Debug\7.21 Combinations of set II no repeating.pdb

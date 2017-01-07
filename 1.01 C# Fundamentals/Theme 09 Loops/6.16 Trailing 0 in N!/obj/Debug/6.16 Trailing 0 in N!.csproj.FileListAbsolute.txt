@@ -1,0 +1,9 @@
+D:\Projects\Telerik\C# Fundamentals\Theme 09 Loops\6.16 Trailing 0 in N!\bin\Debug\6.16 Trailing 0 in N!.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 09 Loops\6.16 Trailing 0 in N!\bin\Debug\6.16 Trailing 0 in N!.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 09 Loops\6.16 Trailing 0 in N!\bin\Debug\6.16 Trailing 0 in N!.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 09 Loops\6.16 Trailing 0 in N!\obj\Debug\6.16 Trailing 0 in N!.csprojResolveAssemblyReference.cache
+D:\Projects\Telerik\C# Fundamentals\Theme 09 Loops\6.16 Trailing 0 in N!\obj\Debug\6.16 Trailing 0 in N!.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 09 Loops\6.16 Trailing 0 in N!\obj\Debug\6.16 Trailing 0 in N!.pdb
+D:\Projects\Telerik\!Autumn 2016\C# Fundamentals\Theme 09 Loops\6.16 Trailing 0 in N!\bin\Debug\6.16 Trailing 0 in N!.exe.config
+D:\Projects\Telerik\!Autumn 2016\C# Fundamentals\Theme 09 Loops\6.16 Trailing 0 in N!\obj\Debug\6.16 Trailing 0 in N!.exe
+D:\Projects\Telerik\!Autumn 2016\C# Fundamentals\Theme 09 Loops\6.16 Trailing 0 in N!\obj\Debug\6.16 Trailing 0 in N!.pdb

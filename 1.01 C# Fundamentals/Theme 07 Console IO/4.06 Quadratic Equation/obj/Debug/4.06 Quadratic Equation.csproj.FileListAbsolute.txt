@@ -1,0 +1,8 @@
+D:\Projects\Telerik\C# Fundamentals\Theme 4\4.06 Quadratic Equation\bin\Debug\4.06 Quadratic Equation.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 4\4.06 Quadratic Equation\bin\Debug\4.06 Quadratic Equation.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 4\4.06 Quadratic Equation\bin\Debug\4.06 Quadratic Equation.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 4\4.06 Quadratic Equation\obj\Debug\4.06 Quadratic Equation.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 4\4.06 Quadratic Equation\obj\Debug\4.06 Quadratic Equation.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 4 Console IO\4.06 Quadratic Equation\bin\Debug\4.06 Quadratic Equation.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 4 Console IO\4.06 Quadratic Equation\obj\Debug\4.06 Quadratic Equation.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 4 Console IO\4.06 Quadratic Equation\obj\Debug\4.06 Quadratic Equation.pdb

@@ -1,0 +1,8 @@
+D:\Projects\Telerik\C# Fundamentals\Theme 5 Conditional Statements\5.03 Play card\bin\Debug\5.03 Play card.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 5 Conditional Statements\5.03 Play card\bin\Debug\5.03 Play card.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 5 Conditional Statements\5.03 Play card\bin\Debug\5.03 Play card.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 5 Conditional Statements\5.03 Play card\obj\Debug\5.03 Play card.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 5 Conditional Statements\5.03 Play card\obj\Debug\5.03 Play card.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 08 Conditional Statements\5.03 Play card\bin\Debug\5.03 Play card.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 08 Conditional Statements\5.03 Play card\obj\Debug\5.03 Play card.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 08 Conditional Statements\5.03 Play card\obj\Debug\5.03 Play card.pdb

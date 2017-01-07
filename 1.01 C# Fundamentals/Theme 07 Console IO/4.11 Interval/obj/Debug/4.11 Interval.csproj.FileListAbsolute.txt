@@ -1,0 +1,8 @@
+D:\Projects\Telerik\C# Fundamentals\Theme 4\4.11 Interval\bin\Debug\4.11 Interval.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 4\4.11 Interval\bin\Debug\4.11 Interval.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 4\4.11 Interval\bin\Debug\4.11 Interval.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 4\4.11 Interval\obj\Debug\4.11 Interval.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 4\4.11 Interval\obj\Debug\4.11 Interval.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 4 Console IO\4.11 Interval\bin\Debug\4.11 Interval.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 4 Console IO\4.11 Interval\obj\Debug\4.11 Interval.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 4 Console IO\4.11 Interval\obj\Debug\4.11 Interval.pdb

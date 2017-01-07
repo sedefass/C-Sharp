@@ -1,0 +1,6 @@
+D:\Projects\Telerik\C# Advanced\Exam\Task01\bin\Debug\Task01.exe.config
+D:\Projects\Telerik\C# Advanced\Exam\Task01\bin\Debug\Task01.exe
+D:\Projects\Telerik\C# Advanced\Exam\Task01\bin\Debug\Task01.pdb
+D:\Projects\Telerik\C# Advanced\Exam\Task01\obj\Debug\Task01.csprojResolveAssemblyReference.cache
+D:\Projects\Telerik\C# Advanced\Exam\Task01\obj\Debug\Task01.exe
+D:\Projects\Telerik\C# Advanced\Exam\Task01\obj\Debug\Task01.pdb

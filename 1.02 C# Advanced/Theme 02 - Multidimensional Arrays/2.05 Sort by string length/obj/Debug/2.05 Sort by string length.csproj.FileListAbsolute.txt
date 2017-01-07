@@ -1,0 +1,6 @@
+D:\Projects\Telerik\C# Advanced\Theme 02 - Multidimensional Arrays\2.05 Sort by string length\bin\Debug\2.05 Sort by string length.exe.config
+D:\Projects\Telerik\C# Advanced\Theme 02 - Multidimensional Arrays\2.05 Sort by string length\bin\Debug\2.05 Sort by string length.exe
+D:\Projects\Telerik\C# Advanced\Theme 02 - Multidimensional Arrays\2.05 Sort by string length\bin\Debug\2.05 Sort by string length.pdb
+D:\Projects\Telerik\C# Advanced\Theme 02 - Multidimensional Arrays\2.05 Sort by string length\obj\Debug\2.05 Sort by string length.csprojResolveAssemblyReference.cache
+D:\Projects\Telerik\C# Advanced\Theme 02 - Multidimensional Arrays\2.05 Sort by string length\obj\Debug\2.05 Sort by string length.exe
+D:\Projects\Telerik\C# Advanced\Theme 02 - Multidimensional Arrays\2.05 Sort by string length\obj\Debug\2.05 Sort by string length.pdb

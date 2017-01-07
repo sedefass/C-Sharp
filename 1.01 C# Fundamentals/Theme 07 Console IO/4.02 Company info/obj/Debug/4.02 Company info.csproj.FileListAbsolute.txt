@@ -1,0 +1,8 @@
+D:\Projects\Telerik\C# Fundamentals\Theme 4\4.02 Company info\bin\Debug\4.02 Company info.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 4\4.02 Company info\bin\Debug\4.02 Company info.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 4\4.02 Company info\bin\Debug\4.02 Company info.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 4\4.02 Company info\obj\Debug\4.02 Company info.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 4\4.02 Company info\obj\Debug\4.02 Company info.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 4 Console IO\4.02 Company info\bin\Debug\4.02 Company info.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 4 Console IO\4.02 Company info\obj\Debug\4.02 Company info.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 4 Console IO\4.02 Company info\obj\Debug\4.02 Company info.pdb

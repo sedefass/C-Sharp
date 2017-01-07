@@ -1,0 +1,8 @@
+D:\Projects\Telerik\C# Advanced\Theme 03 - Methods\Theme 04 - Numeral Systems\4.09 Binary floating-point\bin\Debug\4.09 Binary floating-point.exe.config
+D:\Projects\Telerik\C# Advanced\Theme 03 - Methods\Theme 04 - Numeral Systems\4.09 Binary floating-point\bin\Debug\4.09 Binary floating-point.exe
+D:\Projects\Telerik\C# Advanced\Theme 03 - Methods\Theme 04 - Numeral Systems\4.09 Binary floating-point\bin\Debug\4.09 Binary floating-point.pdb
+D:\Projects\Telerik\C# Advanced\Theme 03 - Methods\Theme 04 - Numeral Systems\4.09 Binary floating-point\obj\Debug\4.09 Binary floating-point.exe
+D:\Projects\Telerik\C# Advanced\Theme 03 - Methods\Theme 04 - Numeral Systems\4.09 Binary floating-point\obj\Debug\4.09 Binary floating-point.pdb
+D:\Projects\Telerik\C# Advanced\Theme 04 - Numeral Systems\4.09 Binary floating-point\bin\Debug\4.09 Binary floating-point.exe.config
+D:\Projects\Telerik\C# Advanced\Theme 04 - Numeral Systems\4.09 Binary floating-point\obj\Debug\4.09 Binary floating-point.exe
+D:\Projects\Telerik\C# Advanced\Theme 04 - Numeral Systems\4.09 Binary floating-point\obj\Debug\4.09 Binary floating-point.pdb

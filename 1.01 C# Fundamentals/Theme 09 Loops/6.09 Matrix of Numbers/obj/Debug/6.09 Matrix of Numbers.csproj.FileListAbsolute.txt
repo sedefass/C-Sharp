@@ -1,0 +1,8 @@
+D:\Projects\Telerik\C# Fundamentals\Theme 6 Loops\6.09 Matrix of Numbers\bin\Debug\6.09 Matrix of Numbers.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 6 Loops\6.09 Matrix of Numbers\bin\Debug\6.09 Matrix of Numbers.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 6 Loops\6.09 Matrix of Numbers\bin\Debug\6.09 Matrix of Numbers.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 6 Loops\6.09 Matrix of Numbers\obj\Debug\6.09 Matrix of Numbers.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 6 Loops\6.09 Matrix of Numbers\obj\Debug\6.09 Matrix of Numbers.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 09 Loops\6.09 Matrix of Numbers\bin\Debug\6.09 Matrix of Numbers.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 09 Loops\6.09 Matrix of Numbers\obj\Debug\6.09 Matrix of Numbers.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 09 Loops\6.09 Matrix of Numbers\obj\Debug\6.09 Matrix of Numbers.pdb

@@ -1,0 +1,12 @@
+D:\Projects\Telerik\C# Fundamentals\Theme 6 Loops\6.04 Print a Deck\bin\Debug\6.04 Print a Deck.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 6 Loops\6.04 Print a Deck\bin\Debug\6.04 Print a Deck.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 6 Loops\6.04 Print a Deck\bin\Debug\6.04 Print a Deck.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 6 Loops\6.04 Print a Deck\obj\Debug\6.04 Print a Deck.csprojResolveAssemblyReference.cache
+D:\Projects\Telerik\C# Fundamentals\Theme 6 Loops\6.04 Print a Deck\obj\Debug\6.04 Print a Deck.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 6 Loops\6.04 Print a Deck\obj\Debug\6.04 Print a Deck.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 09 Loops\6.04 Print a Deck\bin\Debug\6.04 Print a Deck.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 09 Loops\6.04 Print a Deck\bin\Debug\6.04 Print a Deck.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 09 Loops\6.04 Print a Deck\bin\Debug\6.04 Print a Deck.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 09 Loops\6.04 Print a Deck\obj\Debug\6.04 Print a Deck.csprojResolveAssemblyReference.cache
+D:\Projects\Telerik\C# Fundamentals\Theme 09 Loops\6.04 Print a Deck\obj\Debug\6.04 Print a Deck.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 09 Loops\6.04 Print a Deck\obj\Debug\6.04 Print a Deck.pdb

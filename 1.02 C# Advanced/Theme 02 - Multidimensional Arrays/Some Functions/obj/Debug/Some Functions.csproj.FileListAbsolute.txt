@@ -1,0 +1,6 @@
+D:\Projects\Telerik\C# Advanced\Theme 02 - Multidimensional Arrays\Some Functions\bin\Debug\Some Functions.exe.config
+D:\Projects\Telerik\C# Advanced\Theme 02 - Multidimensional Arrays\Some Functions\bin\Debug\Some Functions.exe
+D:\Projects\Telerik\C# Advanced\Theme 02 - Multidimensional Arrays\Some Functions\bin\Debug\Some Functions.pdb
+D:\Projects\Telerik\C# Advanced\Theme 02 - Multidimensional Arrays\Some Functions\obj\Debug\Some Functions.csprojResolveAssemblyReference.cache
+D:\Projects\Telerik\C# Advanced\Theme 02 - Multidimensional Arrays\Some Functions\obj\Debug\Some Functions.exe
+D:\Projects\Telerik\C# Advanced\Theme 02 - Multidimensional Arrays\Some Functions\obj\Debug\Some Functions.pdb

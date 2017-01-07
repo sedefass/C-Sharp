@@ -1,0 +1,5 @@
+D:\Projects\Telerik\C# Fundamentals\Theme 1\1.10 Format Code\bin\Debug\1.10 Format Code.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 1\1.10 Format Code\bin\Debug\1.10 Format Code.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 1\1.10 Format Code\bin\Debug\1.10 Format Code.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 1\1.10 Format Code\obj\Debug\1.10 Format Code.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 1\1.10 Format Code\obj\Debug\1.10 Format Code.pdb

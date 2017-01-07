@@ -1,0 +1,8 @@
+D:\Projects\Telerik\C# Fundamentals\Theme 4\4.07 Sum of 5 numbers\bin\Debug\4.07 Sum of 5 numbers.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 4\4.07 Sum of 5 numbers\bin\Debug\4.07 Sum of 5 numbers.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 4\4.07 Sum of 5 numbers\bin\Debug\4.07 Sum of 5 numbers.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 4\4.07 Sum of 5 numbers\obj\Debug\4.07 Sum of 5 numbers.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 4\4.07 Sum of 5 numbers\obj\Debug\4.07 Sum of 5 numbers.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 4 Console IO\4.07 Sum of 5 numbers\bin\Debug\4.07 Sum of 5 numbers.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 4 Console IO\4.07 Sum of 5 numbers\obj\Debug\4.07 Sum of 5 numbers.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 4 Console IO\4.07 Sum of 5 numbers\obj\Debug\4.07 Sum of 5 numbers.pdb

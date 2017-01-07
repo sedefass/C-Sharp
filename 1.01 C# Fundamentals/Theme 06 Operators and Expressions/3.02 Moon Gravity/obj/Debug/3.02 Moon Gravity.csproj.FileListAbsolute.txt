@@ -1,0 +1,9 @@
+D:\Projects\Telerik\C# Fundamentals\Theme 3\3.02 Moon Gravity\bin\Debug\3.02 Moon Gravity.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 3\3.02 Moon Gravity\bin\Debug\3.02 Moon Gravity.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 3\3.02 Moon Gravity\bin\Debug\3.02 Moon Gravity.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 3\3.02 Moon Gravity\obj\Debug\3.02 Moon Gravity.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 3\3.02 Moon Gravity\obj\Debug\3.02 Moon Gravity.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 3\3.02 Moon Gravity\obj\Debug\3.02 Moon Gravity.csprojResolveAssemblyReference.cache
+D:\Projects\Telerik\!Autumn 2016\C# Fundamentals\Theme 06 Operators and Expressions\3.02 Moon Gravity\bin\Debug\3.02 Moon Gravity.exe.config
+D:\Projects\Telerik\!Autumn 2016\C# Fundamentals\Theme 06 Operators and Expressions\3.02 Moon Gravity\obj\Debug\3.02 Moon Gravity.exe
+D:\Projects\Telerik\!Autumn 2016\C# Fundamentals\Theme 06 Operators and Expressions\3.02 Moon Gravity\obj\Debug\3.02 Moon Gravity.pdb

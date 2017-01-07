@@ -1,0 +1,6 @@
+D:\Projects\Telerik\C# Advanced\Theme 07 -  Processing Strings\7.10 Unicode characters\bin\Debug\7.10 Unicode characters.exe.config
+D:\Projects\Telerik\C# Advanced\Theme 07 -  Processing Strings\7.10 Unicode characters\obj\Debug\7.10 Unicode characters.csprojResolveAssemblyReference.cache
+D:\Projects\Telerik\C# Advanced\Theme 07 -  Processing Strings\7.10 Unicode characters\bin\Debug\7.10 Unicode characters.exe
+D:\Projects\Telerik\C# Advanced\Theme 07 -  Processing Strings\7.10 Unicode characters\bin\Debug\7.10 Unicode characters.pdb
+D:\Projects\Telerik\C# Advanced\Theme 07 -  Processing Strings\7.10 Unicode characters\obj\Debug\7.10 Unicode characters.exe
+D:\Projects\Telerik\C# Advanced\Theme 07 -  Processing Strings\7.10 Unicode characters\obj\Debug\7.10 Unicode characters.pdb

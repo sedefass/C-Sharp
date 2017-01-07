@@ -1,0 +1,11 @@
+D:\Projects\Telerik\C# Fundamentals\Theme 6 Loops\6.12 Decimal to Binary\bin\Debug\6.12 Decimal to Binary.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 6 Loops\6.12 Decimal to Binary\bin\Debug\6.12 Decimal to Binary.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 6 Loops\6.12 Decimal to Binary\bin\Debug\6.12 Decimal to Binary.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 6 Loops\6.12 Decimal to Binary\obj\Debug\6.12 Decimal to Binary.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 6 Loops\6.12 Decimal to Binary\obj\Debug\6.12 Decimal to Binary.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 09 Loops\6.12 Decimal to Binary\bin\Debug\6.12 Decimal to Binary.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 09 Loops\6.12 Decimal to Binary\obj\Debug\6.12 Decimal to Binary.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 09 Loops\6.12 Decimal to Binary\obj\Debug\6.12 Decimal to Binary.pdb
+D:\Projects\Telerik\!Autumn 2016\C# Fundamentals\Theme 09 Loops\6.12 Decimal to Binary\bin\Debug\6.12 Decimal to Binary.exe.config
+D:\Projects\Telerik\!Autumn 2016\C# Fundamentals\Theme 09 Loops\6.12 Decimal to Binary\obj\Debug\6.12 Decimal to Binary.exe
+D:\Projects\Telerik\!Autumn 2016\C# Fundamentals\Theme 09 Loops\6.12 Decimal to Binary\obj\Debug\6.12 Decimal to Binary.pdb

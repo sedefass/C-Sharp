@@ -1,0 +1,6 @@
+D:\Projects\Telerik\C# Fundamentals\Theme 3\3.05 Third digit\bin\Debug\3.05 Third digit.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 3\3.05 Third digit\bin\Debug\3.05 Third digit.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 3\3.05 Third digit\bin\Debug\3.05 Third digit.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 3\3.05 Third digit\obj\Debug\3.05 Third digit.csprojResolveAssemblyReference.cache
+D:\Projects\Telerik\C# Fundamentals\Theme 3\3.05 Third digit\obj\Debug\3.05 Third digit.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 3\3.05 Third digit\obj\Debug\3.05 Third digit.pdb

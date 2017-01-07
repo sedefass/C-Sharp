@@ -1,0 +1,6 @@
+D:\Projects\Telerik\C# Fundamentals\Theme 3\3.09 Trapezoids\bin\Debug\3.09 Trapezoids.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 3\3.09 Trapezoids\bin\Debug\3.09 Trapezoids.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 3\3.09 Trapezoids\bin\Debug\3.09 Trapezoids.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 3\3.09 Trapezoids\obj\Debug\3.09 Trapezoids.csprojResolveAssemblyReference.cache
+D:\Projects\Telerik\C# Fundamentals\Theme 3\3.09 Trapezoids\obj\Debug\3.09 Trapezoids.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 3\3.09 Trapezoids\obj\Debug\3.09 Trapezoids.pdb

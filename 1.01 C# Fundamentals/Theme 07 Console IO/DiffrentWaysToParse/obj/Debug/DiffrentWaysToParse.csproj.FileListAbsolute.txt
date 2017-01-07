@@ -1,0 +1,6 @@
+D:\Projects\Telerik\C# Fundamentals\Theme 07 Console IO\DiffrentWaysToParse\bin\Debug\DiffrentWaysToParse.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 07 Console IO\DiffrentWaysToParse\bin\Debug\DiffrentWaysToParse.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 07 Console IO\DiffrentWaysToParse\bin\Debug\DiffrentWaysToParse.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 07 Console IO\DiffrentWaysToParse\obj\Debug\DiffrentWaysToParse.csprojResolveAssemblyReference.cache
+D:\Projects\Telerik\C# Fundamentals\Theme 07 Console IO\DiffrentWaysToParse\obj\Debug\DiffrentWaysToParse.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 07 Console IO\DiffrentWaysToParse\obj\Debug\DiffrentWaysToParse.pdb

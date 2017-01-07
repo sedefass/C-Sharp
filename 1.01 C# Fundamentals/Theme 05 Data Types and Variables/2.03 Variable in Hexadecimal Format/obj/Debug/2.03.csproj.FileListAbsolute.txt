@@ -1,0 +1,6 @@
+D:\Projects\Telerik\C# Fundamentals\Theme 2\2.03\bin\Debug\2.03.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 2\2.03\obj\Debug\2.03.csprojResolveAssemblyReference.cache
+D:\Projects\Telerik\C# Fundamentals\Theme 2\2.03\bin\Debug\2.03.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 2\2.03\bin\Debug\2.03.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 2\2.03\obj\Debug\2.03.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 2\2.03\obj\Debug\2.03.pdb

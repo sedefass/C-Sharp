@@ -1,0 +1,6 @@
+D:\Projects\Telerik\C# Fundamentals\Theme 2\2.08 Isosceles Triangle\bin\Debug\2.08 Isosceles Triangle.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 2\2.08 Isosceles Triangle\bin\Debug\2.08 Isosceles Triangle.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 2\2.08 Isosceles Triangle\bin\Debug\2.08 Isosceles Triangle.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 2\2.08 Isosceles Triangle\obj\Debug\2.08 Isosceles Triangle.csprojResolveAssemblyReference.cache
+D:\Projects\Telerik\C# Fundamentals\Theme 2\2.08 Isosceles Triangle\obj\Debug\2.08 Isosceles Triangle.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 2\2.08 Isosceles Triangle\obj\Debug\2.08 Isosceles Triangle.pdb

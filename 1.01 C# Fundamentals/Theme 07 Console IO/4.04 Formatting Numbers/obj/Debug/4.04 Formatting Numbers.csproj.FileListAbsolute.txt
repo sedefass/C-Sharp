@@ -1,0 +1,6 @@
+D:\Projects\Telerik\C# Fundamentals\Theme 4\4.04 Formatting Numbers\bin\Debug\4.04 Formatting Numbers.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 4\4.04 Formatting Numbers\bin\Debug\4.04 Formatting Numbers.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 4\4.04 Formatting Numbers\bin\Debug\4.04 Formatting Numbers.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 4\4.04 Formatting Numbers\obj\Debug\4.04 Formatting Numbers.csprojResolveAssemblyReference.cache
+D:\Projects\Telerik\C# Fundamentals\Theme 4\4.04 Formatting Numbers\obj\Debug\4.04 Formatting Numbers.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 4\4.04 Formatting Numbers\obj\Debug\4.04 Formatting Numbers.pdb

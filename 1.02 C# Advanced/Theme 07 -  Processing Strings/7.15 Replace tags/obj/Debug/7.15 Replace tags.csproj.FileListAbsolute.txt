@@ -1,0 +1,5 @@
+D:\Projects\Telerik\C# Advanced\Theme 07 -  Processing Strings\7.15 Replace tags\bin\Debug\7.15 Replace tags.exe.config
+D:\Projects\Telerik\C# Advanced\Theme 07 -  Processing Strings\7.15 Replace tags\bin\Debug\7.15 Replace tags.exe
+D:\Projects\Telerik\C# Advanced\Theme 07 -  Processing Strings\7.15 Replace tags\bin\Debug\7.15 Replace tags.pdb
+D:\Projects\Telerik\C# Advanced\Theme 07 -  Processing Strings\7.15 Replace tags\obj\Debug\7.15 Replace tags.exe
+D:\Projects\Telerik\C# Advanced\Theme 07 -  Processing Strings\7.15 Replace tags\obj\Debug\7.15 Replace tags.pdb

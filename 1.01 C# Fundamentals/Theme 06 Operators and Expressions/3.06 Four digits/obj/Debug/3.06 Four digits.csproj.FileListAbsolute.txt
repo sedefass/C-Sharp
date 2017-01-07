@@ -1,0 +1,5 @@
+D:\Projects\Telerik\C# Fundamentals\Theme 3\3.06 Four digits\bin\Debug\3.06 Four digits.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 3\3.06 Four digits\bin\Debug\3.06 Four digits.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 3\3.06 Four digits\bin\Debug\3.06 Four digits.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 3\3.06 Four digits\obj\Debug\3.06 Four digits.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 3\3.06 Four digits\obj\Debug\3.06 Four digits.pdb

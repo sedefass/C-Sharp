@@ -1,0 +1,9 @@
+D:\Projects\Telerik\C# Fundamentals\Theme 09 Loops\Spiral Matrix internet solution 1\bin\Debug\Spiral Matrix internet solution 1.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 09 Loops\Spiral Matrix internet solution 1\bin\Debug\Spiral Matrix internet solution 1.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 09 Loops\Spiral Matrix internet solution 1\bin\Debug\Spiral Matrix internet solution 1.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 09 Loops\Spiral Matrix internet solution 1\obj\Debug\Spiral Matrix internet solution 1.csprojResolveAssemblyReference.cache
+D:\Projects\Telerik\C# Fundamentals\Theme 09 Loops\Spiral Matrix internet solution 1\obj\Debug\Spiral Matrix internet solution 1.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 09 Loops\Spiral Matrix internet solution 1\obj\Debug\Spiral Matrix internet solution 1.pdb
+D:\Projects\Telerik\!Autumn 2016\C# Fundamentals\Theme 09 Loops\Spiral Matrix internet solution 1\bin\Debug\Spiral Matrix internet solution 1.exe.config
+D:\Projects\Telerik\!Autumn 2016\C# Fundamentals\Theme 09 Loops\Spiral Matrix internet solution 1\obj\Debug\Spiral Matrix internet solution 1.exe
+D:\Projects\Telerik\!Autumn 2016\C# Fundamentals\Theme 09 Loops\Spiral Matrix internet solution 1\obj\Debug\Spiral Matrix internet solution 1.pdb

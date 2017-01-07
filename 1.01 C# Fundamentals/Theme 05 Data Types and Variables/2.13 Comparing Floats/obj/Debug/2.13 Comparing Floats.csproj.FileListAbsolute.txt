@@ -1,0 +1,5 @@
+D:\Projects\Telerik\C# Fundamentals\Theme 2\2.13 Comparing Floats\bin\Debug\2.13 Comparing Floats.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 2\2.13 Comparing Floats\bin\Debug\2.13 Comparing Floats.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 2\2.13 Comparing Floats\bin\Debug\2.13 Comparing Floats.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 2\2.13 Comparing Floats\obj\Debug\2.13 Comparing Floats.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 2\2.13 Comparing Floats\obj\Debug\2.13 Comparing Floats.pdb

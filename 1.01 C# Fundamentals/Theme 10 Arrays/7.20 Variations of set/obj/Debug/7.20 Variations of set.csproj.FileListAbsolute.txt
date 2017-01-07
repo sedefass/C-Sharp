@@ -1,0 +1,5 @@
+D:\Projects\Telerik\C# Fundamentals\Theme 10 Arrays\7.20 Variations of set\bin\Debug\7.20 Variations of set.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 10 Arrays\7.20 Variations of set\bin\Debug\7.20 Variations of set.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 10 Arrays\7.20 Variations of set\bin\Debug\7.20 Variations of set.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 10 Arrays\7.20 Variations of set\obj\Debug\7.20 Variations of set.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 10 Arrays\7.20 Variations of set\obj\Debug\7.20 Variations of set.pdb

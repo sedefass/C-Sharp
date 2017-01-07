@@ -1,0 +1,9 @@
+D:\Projects\Telerik\C# Fundamentals\Theme 10 Arrays\7.16 Subset with sum S\bin\Debug\7.16 Subset with sum S.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 10 Arrays\7.16 Subset with sum S\bin\Debug\7.16 Subset with sum S.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 10 Arrays\7.16 Subset with sum S\bin\Debug\7.16 Subset with sum S.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 10 Arrays\7.16 Subset with sum S\obj\Debug\7.16 Subset with sum S.csprojResolveAssemblyReference.cache
+D:\Projects\Telerik\C# Fundamentals\Theme 10 Arrays\7.16 Subset with sum S\obj\Debug\7.16 Subset with sum S.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 10 Arrays\7.16 Subset with sum S\obj\Debug\7.16 Subset with sum S.pdb
+D:\Projects\Telerik\!Autumn 2016\C# Fundamentals\Theme 10 Arrays\7.16 Subset with sum S\bin\Debug\7.16 Subset with sum S.exe.config
+D:\Projects\Telerik\!Autumn 2016\C# Fundamentals\Theme 10 Arrays\7.16 Subset with sum S\obj\Debug\7.16 Subset with sum S.exe
+D:\Projects\Telerik\!Autumn 2016\C# Fundamentals\Theme 10 Arrays\7.16 Subset with sum S\obj\Debug\7.16 Subset with sum S.pdb

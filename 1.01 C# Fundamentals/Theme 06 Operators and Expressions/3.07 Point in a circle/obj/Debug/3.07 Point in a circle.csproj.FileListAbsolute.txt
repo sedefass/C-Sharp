@@ -1,0 +1,5 @@
+D:\Projects\Telerik\C# Fundamentals\Theme 3\3.07 Point in a circle\bin\Debug\3.07 Point in a circle.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 3\3.07 Point in a circle\bin\Debug\3.07 Point in a circle.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 3\3.07 Point in a circle\bin\Debug\3.07 Point in a circle.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 3\3.07 Point in a circle\obj\Debug\3.07 Point in a circle.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 3\3.07 Point in a circle\obj\Debug\3.07 Point in a circle.pdb

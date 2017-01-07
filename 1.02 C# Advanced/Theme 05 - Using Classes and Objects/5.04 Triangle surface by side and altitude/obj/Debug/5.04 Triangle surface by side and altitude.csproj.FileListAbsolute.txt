@@ -1,0 +1,5 @@
+D:\Projects\Telerik\C# Advanced\Theme 05 - Using Classes and Objects\5.04 Triangle surface by side and altitude\bin\Debug\4.04 Triangle surface by side and altitude.exe.config
+D:\Projects\Telerik\C# Advanced\Theme 05 - Using Classes and Objects\5.04 Triangle surface by side and altitude\bin\Debug\4.04 Triangle surface by side and altitude.exe
+D:\Projects\Telerik\C# Advanced\Theme 05 - Using Classes and Objects\5.04 Triangle surface by side and altitude\bin\Debug\4.04 Triangle surface by side and altitude.pdb
+D:\Projects\Telerik\C# Advanced\Theme 05 - Using Classes and Objects\5.04 Triangle surface by side and altitude\obj\Debug\4.04 Triangle surface by side and altitude.exe
+D:\Projects\Telerik\C# Advanced\Theme 05 - Using Classes and Objects\5.04 Triangle surface by side and altitude\obj\Debug\4.04 Triangle surface by side and altitude.pdb

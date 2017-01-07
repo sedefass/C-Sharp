@@ -1,0 +1,6 @@
+D:\Projects\Telerik\C# Advanced\Theme 03 - Methods\3.14 Integer calculations\bin\Debug\3.14 Integer calculations.exe.config
+D:\Projects\Telerik\C# Advanced\Theme 03 - Methods\3.14 Integer calculations\obj\Debug\3.14 Integer calculations.csprojResolveAssemblyReference.cache
+D:\Projects\Telerik\C# Advanced\Theme 03 - Methods\3.14 Integer calculations\bin\Debug\3.14 Integer calculations.exe
+D:\Projects\Telerik\C# Advanced\Theme 03 - Methods\3.14 Integer calculations\bin\Debug\3.14 Integer calculations.pdb
+D:\Projects\Telerik\C# Advanced\Theme 03 - Methods\3.14 Integer calculations\obj\Debug\3.14 Integer calculations.exe
+D:\Projects\Telerik\C# Advanced\Theme 03 - Methods\3.14 Integer calculations\obj\Debug\3.14 Integer calculations.pdb

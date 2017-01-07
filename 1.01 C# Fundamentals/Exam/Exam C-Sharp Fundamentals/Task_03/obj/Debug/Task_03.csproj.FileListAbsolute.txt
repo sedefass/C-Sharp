@@ -1,0 +1,6 @@
+D:\Projects\Telerik\C# Fundamentals\Exam\Exam C-Sharp Fundamentals\Task_03\bin\Debug\Task_03.exe.config
+D:\Projects\Telerik\C# Fundamentals\Exam\Exam C-Sharp Fundamentals\Task_03\bin\Debug\Task_03.exe
+D:\Projects\Telerik\C# Fundamentals\Exam\Exam C-Sharp Fundamentals\Task_03\bin\Debug\Task_03.pdb
+D:\Projects\Telerik\C# Fundamentals\Exam\Exam C-Sharp Fundamentals\Task_03\obj\Debug\Task_03.csprojResolveAssemblyReference.cache
+D:\Projects\Telerik\C# Fundamentals\Exam\Exam C-Sharp Fundamentals\Task_03\obj\Debug\Task_03.exe
+D:\Projects\Telerik\C# Fundamentals\Exam\Exam C-Sharp Fundamentals\Task_03\obj\Debug\Task_03.pdb

@@ -1,0 +1,11 @@
+D:\Projects\Telerik\C# Fundamentals\Theme 6 Loops\6.05 Calculate!\bin\Debug\6.05 Calculate!.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 6 Loops\6.05 Calculate!\bin\Debug\6.05 Calculate!.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 6 Loops\6.05 Calculate!\bin\Debug\6.05 Calculate!.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 6 Loops\6.05 Calculate!\obj\Debug\6.05 Calculate!.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 6 Loops\6.05 Calculate!\obj\Debug\6.05 Calculate!.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 09 Loops\6.05 Calculate!\bin\Debug\6.05 Calculate!.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 09 Loops\6.05 Calculate!\bin\Debug\6.05 Calculate!.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 09 Loops\6.05 Calculate!\bin\Debug\6.05 Calculate!.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 09 Loops\6.05 Calculate!\obj\Debug\6.05 Calculate!.csprojResolveAssemblyReference.cache
+D:\Projects\Telerik\C# Fundamentals\Theme 09 Loops\6.05 Calculate!\obj\Debug\6.05 Calculate!.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 09 Loops\6.05 Calculate!\obj\Debug\6.05 Calculate!.pdb

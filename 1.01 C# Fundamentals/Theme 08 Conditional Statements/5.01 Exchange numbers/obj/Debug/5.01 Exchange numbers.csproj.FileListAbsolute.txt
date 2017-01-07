@@ -1,0 +1,13 @@
+D:\Projects\Telerik\C# Fundamentals\Theme 5\5.01 Exchange numbers\bin\Debug\5.01 Exchange numbers.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 5\5.01 Exchange numbers\obj\Debug\5.01 Exchange numbers.csprojResolveAssemblyReference.cache
+D:\Projects\Telerik\C# Fundamentals\Theme 5\5.01 Exchange numbers\bin\Debug\5.01 Exchange numbers.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 5\5.01 Exchange numbers\bin\Debug\5.01 Exchange numbers.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 5\5.01 Exchange numbers\obj\Debug\5.01 Exchange numbers.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 5\5.01 Exchange numbers\obj\Debug\5.01 Exchange numbers.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 5 Conditional Statements\5.01 Exchange numbers\bin\Debug\5.01 Exchange numbers.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 5 Conditional Statements\5.01 Exchange numbers\obj\Debug\5.01 Exchange numbers.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 5 Conditional Statements\5.01 Exchange numbers\obj\Debug\5.01 Exchange numbers.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 08 Conditional Statements\5.01 Exchange numbers\bin\Debug\5.01 Exchange numbers.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 08 Conditional Statements\5.01 Exchange numbers\obj\Debug\5.01 Exchange numbers.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 08 Conditional Statements\5.01 Exchange numbers\obj\Debug\5.01 Exchange numbers.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 08 Conditional Statements\5.01 Exchange numbers\obj\Debug\5.01 Exchange numbers.csprojResolveAssemblyReference.cache

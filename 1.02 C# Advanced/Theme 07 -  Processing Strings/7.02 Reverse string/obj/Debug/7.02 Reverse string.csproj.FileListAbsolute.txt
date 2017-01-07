@@ -1,0 +1,12 @@
+D:\Projects\Telerik\C# Advanced\Theme 06 -  Processing Strings\7.02 Reverse string\bin\Debug\7.02 Reverse string.exe.config
+D:\Projects\Telerik\C# Advanced\Theme 06 -  Processing Strings\7.02 Reverse string\bin\Debug\7.02 Reverse string.exe
+D:\Projects\Telerik\C# Advanced\Theme 06 -  Processing Strings\7.02 Reverse string\bin\Debug\7.02 Reverse string.pdb
+D:\Projects\Telerik\C# Advanced\Theme 06 -  Processing Strings\7.02 Reverse string\obj\Debug\7.02 Reverse string.csprojResolveAssemblyReference.cache
+D:\Projects\Telerik\C# Advanced\Theme 06 -  Processing Strings\7.02 Reverse string\obj\Debug\7.02 Reverse string.exe
+D:\Projects\Telerik\C# Advanced\Theme 06 -  Processing Strings\7.02 Reverse string\obj\Debug\7.02 Reverse string.pdb
+D:\Projects\Telerik\C# Advanced\Theme 07 -  Processing Strings\7.02 Reverse string\bin\Debug\7.02 Reverse string.exe.config
+D:\Projects\Telerik\C# Advanced\Theme 07 -  Processing Strings\7.02 Reverse string\obj\Debug\7.02 Reverse string.exe
+D:\Projects\Telerik\C# Advanced\Theme 07 -  Processing Strings\7.02 Reverse string\obj\Debug\7.02 Reverse string.pdb
+D:\Projects\Telerik\C# Advanced\Theme 07 -  Processing Strings\7.02 Reverse string\bin\Debug\7.02 Reverse string.exe
+D:\Projects\Telerik\C# Advanced\Theme 07 -  Processing Strings\7.02 Reverse string\bin\Debug\7.02 Reverse string.pdb
+D:\Projects\Telerik\C# Advanced\Theme 07 -  Processing Strings\7.02 Reverse string\obj\Debug\7.02 Reverse string.csprojResolveAssemblyReference.cache

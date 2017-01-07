@@ -1,0 +1,6 @@
+D:\Projects\Telerik\C# Advanced\Theme 02 - Multidimensional Arrays\2.04 Binary search\bin\Debug\2.04 Binary search.exe.config
+D:\Projects\Telerik\C# Advanced\Theme 02 - Multidimensional Arrays\2.04 Binary search\bin\Debug\2.04 Binary search.exe
+D:\Projects\Telerik\C# Advanced\Theme 02 - Multidimensional Arrays\2.04 Binary search\bin\Debug\2.04 Binary search.pdb
+D:\Projects\Telerik\C# Advanced\Theme 02 - Multidimensional Arrays\2.04 Binary search\obj\Debug\2.04 Binary search.csprojResolveAssemblyReference.cache
+D:\Projects\Telerik\C# Advanced\Theme 02 - Multidimensional Arrays\2.04 Binary search\obj\Debug\2.04 Binary search.exe
+D:\Projects\Telerik\C# Advanced\Theme 02 - Multidimensional Arrays\2.04 Binary search\obj\Debug\2.04 Binary search.pdb

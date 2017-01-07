@@ -1,0 +1,9 @@
+D:\Projects\Telerik\C# Fundamentals\Theme 10 Arrays\7.19 Permutations of set\bin\Debug\7.19 Permutations of set.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 10 Arrays\7.19 Permutations of set\bin\Debug\7.19 Permutations of set.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 10 Arrays\7.19 Permutations of set\bin\Debug\7.19 Permutations of set.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 10 Arrays\7.19 Permutations of set\obj\Debug\7.19 Permutations of set.csprojResolveAssemblyReference.cache
+D:\Projects\Telerik\C# Fundamentals\Theme 10 Arrays\7.19 Permutations of set\obj\Debug\7.19 Permutations of set.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 10 Arrays\7.19 Permutations of set\obj\Debug\7.19 Permutations of set.pdb
+D:\Projects\Telerik\!Autumn 2016\C# Fundamentals\Theme 10 Arrays\7.19 Permutations of set\bin\Debug\7.19 Permutations of set.exe.config
+D:\Projects\Telerik\!Autumn 2016\C# Fundamentals\Theme 10 Arrays\7.19 Permutations of set\obj\Debug\7.19 Permutations of set.exe
+D:\Projects\Telerik\!Autumn 2016\C# Fundamentals\Theme 10 Arrays\7.19 Permutations of set\obj\Debug\7.19 Permutations of set.pdb

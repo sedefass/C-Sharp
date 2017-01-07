@@ -1,0 +1,8 @@
+D:\Projects\Telerik\C# Fundamentals\Theme 5 Conditional Statements\5.07 Sort 3 Numbers\bin\Debug\5.07 Sort 3 Numbers.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 5 Conditional Statements\5.07 Sort 3 Numbers\bin\Debug\5.07 Sort 3 Numbers.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 5 Conditional Statements\5.07 Sort 3 Numbers\bin\Debug\5.07 Sort 3 Numbers.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 5 Conditional Statements\5.07 Sort 3 Numbers\obj\Debug\5.07 Sort 3 Numbers.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 5 Conditional Statements\5.07 Sort 3 Numbers\obj\Debug\5.07 Sort 3 Numbers.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 08 Conditional Statements\5.07 Sort 3 Numbers\bin\Debug\5.07 Sort 3 Numbers.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 08 Conditional Statements\5.07 Sort 3 Numbers\obj\Debug\5.07 Sort 3 Numbers.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 08 Conditional Statements\5.07 Sort 3 Numbers\obj\Debug\5.07 Sort 3 Numbers.pdb

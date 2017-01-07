@@ -1,0 +1,5 @@
+D:\Projects\Telerik\C# Advanced\Theme 05 - Using Classes and Objects\5.08 Sum integers\bin\Debug\5.08 Sum integers.exe.config
+D:\Projects\Telerik\C# Advanced\Theme 05 - Using Classes and Objects\5.08 Sum integers\bin\Debug\5.08 Sum integers.exe
+D:\Projects\Telerik\C# Advanced\Theme 05 - Using Classes and Objects\5.08 Sum integers\bin\Debug\5.08 Sum integers.pdb
+D:\Projects\Telerik\C# Advanced\Theme 05 - Using Classes and Objects\5.08 Sum integers\obj\Debug\5.08 Sum integers.exe
+D:\Projects\Telerik\C# Advanced\Theme 05 - Using Classes and Objects\5.08 Sum integers\obj\Debug\5.08 Sum integers.pdb

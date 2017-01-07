@@ -1,0 +1,5 @@
+D:\Projects\Telerik\C# Fundamentals\Theme 3\3.03 Divide by 7 and 5\bin\Debug\3.03 Divide by 7 and 5.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 3\3.03 Divide by 7 and 5\bin\Debug\3.03 Divide by 7 and 5.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 3\3.03 Divide by 7 and 5\bin\Debug\3.03 Divide by 7 and 5.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 3\3.03 Divide by 7 and 5\obj\Debug\3.03 Divide by 7 and 5.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 3\3.03 Divide by 7 and 5\obj\Debug\3.03 Divide by 7 and 5.pdb

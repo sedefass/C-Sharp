@@ -1,0 +1,11 @@
+D:\Projects\Telerik\C# Fundamentals\Theme 4\4.10 Fibonacci Numbers\bin\Debug\4.10 Fibonacci Numbers.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 4\4.10 Fibonacci Numbers\bin\Debug\4.10 Fibonacci Numbers.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 4\4.10 Fibonacci Numbers\bin\Debug\4.10 Fibonacci Numbers.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 4\4.10 Fibonacci Numbers\obj\Debug\4.10 Fibonacci Numbers.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 4\4.10 Fibonacci Numbers\obj\Debug\4.10 Fibonacci Numbers.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 4 Console IO\4.10 Fibonacci Numbers\bin\Debug\4.10 Fibonacci Numbers.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 4 Console IO\4.10 Fibonacci Numbers\obj\Debug\4.10 Fibonacci Numbers.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 4 Console IO\4.10 Fibonacci Numbers\obj\Debug\4.10 Fibonacci Numbers.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 4 Console IO\4.10 Fibonacci Numbers\bin\Debug\4.10 Fibonacci Numbers.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 4 Console IO\4.10 Fibonacci Numbers\bin\Debug\4.10 Fibonacci Numbers.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 4 Console IO\4.10 Fibonacci Numbers\obj\Debug\4.10 Fibonacci Numbers.csprojResolveAssemblyReference.cache

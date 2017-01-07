@@ -1,0 +1,5 @@
+D:\Projects\Telerik\C# Fundamentals\Theme 3\3.14 BitExchange\bin\Debug\3.14 BitExchange.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 3\3.14 BitExchange\bin\Debug\3.14 BitExchange.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 3\3.14 BitExchange\bin\Debug\3.14 BitExchange.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 3\3.14 BitExchange\obj\Debug\3.14 BitExchange.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 3\3.14 BitExchange\obj\Debug\3.14 BitExchange.pdb

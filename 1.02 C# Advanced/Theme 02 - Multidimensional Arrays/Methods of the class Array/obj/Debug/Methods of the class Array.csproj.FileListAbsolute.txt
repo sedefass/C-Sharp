@@ -1,0 +1,6 @@
+D:\Projects\Telerik\C# Advanced\Theme 02 - Multidimensional Arrays\Methods of the class Array\bin\Debug\Methods of the class Array.exe.config
+D:\Projects\Telerik\C# Advanced\Theme 02 - Multidimensional Arrays\Methods of the class Array\bin\Debug\Methods of the class Array.exe
+D:\Projects\Telerik\C# Advanced\Theme 02 - Multidimensional Arrays\Methods of the class Array\bin\Debug\Methods of the class Array.pdb
+D:\Projects\Telerik\C# Advanced\Theme 02 - Multidimensional Arrays\Methods of the class Array\obj\Debug\Methods of the class Array.csprojResolveAssemblyReference.cache
+D:\Projects\Telerik\C# Advanced\Theme 02 - Multidimensional Arrays\Methods of the class Array\obj\Debug\Methods of the class Array.exe
+D:\Projects\Telerik\C# Advanced\Theme 02 - Multidimensional Arrays\Methods of the class Array\obj\Debug\Methods of the class Array.pdb

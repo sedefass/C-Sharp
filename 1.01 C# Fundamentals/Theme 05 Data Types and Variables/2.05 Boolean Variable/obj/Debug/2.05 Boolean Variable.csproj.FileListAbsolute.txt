@@ -1,0 +1,5 @@
+D:\Projects\Telerik\C# Fundamentals\Theme 2\2.05 Boolean Variable\bin\Debug\2.05 Boolean Variable.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 2\2.05 Boolean Variable\bin\Debug\2.05 Boolean Variable.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 2\2.05 Boolean Variable\bin\Debug\2.05 Boolean Variable.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 2\2.05 Boolean Variable\obj\Debug\2.05 Boolean Variable.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 2\2.05 Boolean Variable\obj\Debug\2.05 Boolean Variable.pdb

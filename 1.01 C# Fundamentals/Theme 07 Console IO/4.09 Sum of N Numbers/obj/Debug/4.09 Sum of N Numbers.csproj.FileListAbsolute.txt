@@ -1,0 +1,8 @@
+D:\Projects\Telerik\C# Fundamentals\Theme 4\4.09 Sum of N Numbers\bin\Debug\4.09 Sum of N Numbers.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 4\4.09 Sum of N Numbers\bin\Debug\4.09 Sum of N Numbers.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 4\4.09 Sum of N Numbers\bin\Debug\4.09 Sum of N Numbers.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 4\4.09 Sum of N Numbers\obj\Debug\4.09 Sum of N Numbers.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 4\4.09 Sum of N Numbers\obj\Debug\4.09 Sum of N Numbers.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 4 Console IO\4.09 Sum of N Numbers\bin\Debug\4.09 Sum of N Numbers.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 4 Console IO\4.09 Sum of N Numbers\obj\Debug\4.09 Sum of N Numbers.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 4 Console IO\4.09 Sum of N Numbers\obj\Debug\4.09 Sum of N Numbers.pdb

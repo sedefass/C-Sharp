@@ -1,0 +1,6 @@
+D:\Projects\Telerik\C# Advanced\Theme 07 -  Processing Strings\7.23 Series of letters\bin\Debug\7.23 Series of letters.exe.config
+D:\Projects\Telerik\C# Advanced\Theme 07 -  Processing Strings\7.23 Series of letters\bin\Debug\7.23 Series of letters.exe
+D:\Projects\Telerik\C# Advanced\Theme 07 -  Processing Strings\7.23 Series of letters\bin\Debug\7.23 Series of letters.pdb
+D:\Projects\Telerik\C# Advanced\Theme 07 -  Processing Strings\7.23 Series of letters\obj\Debug\7.23 Series of letters.csprojResolveAssemblyReference.cache
+D:\Projects\Telerik\C# Advanced\Theme 07 -  Processing Strings\7.23 Series of letters\obj\Debug\7.23 Series of letters.exe
+D:\Projects\Telerik\C# Advanced\Theme 07 -  Processing Strings\7.23 Series of letters\obj\Debug\7.23 Series of letters.pdb

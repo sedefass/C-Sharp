@@ -1,0 +1,6 @@
+D:\Projects\Telerik\C# Advanced\Theme 05 - Using Classes and Objects\5.06 Triangle surface by two sides and an angle\bin\Debug\5.06 Triangle surface by two sides and an angle.exe.config
+D:\Projects\Telerik\C# Advanced\Theme 05 - Using Classes and Objects\5.06 Triangle surface by two sides and an angle\bin\Debug\5.06 Triangle surface by two sides and an angle.exe
+D:\Projects\Telerik\C# Advanced\Theme 05 - Using Classes and Objects\5.06 Triangle surface by two sides and an angle\bin\Debug\5.06 Triangle surface by two sides and an angle.pdb
+D:\Projects\Telerik\C# Advanced\Theme 05 - Using Classes and Objects\5.06 Triangle surface by two sides and an angle\obj\Debug\5.06 Triangle surface by two sides and an angle.csprojResolveAssemblyReference.cache
+D:\Projects\Telerik\C# Advanced\Theme 05 - Using Classes and Objects\5.06 Triangle surface by two sides and an angle\obj\Debug\5.06 Triangle surface by two sides and an angle.exe
+D:\Projects\Telerik\C# Advanced\Theme 05 - Using Classes and Objects\5.06 Triangle surface by two sides and an angle\obj\Debug\5.06 Triangle surface by two sides and an angle.pdb

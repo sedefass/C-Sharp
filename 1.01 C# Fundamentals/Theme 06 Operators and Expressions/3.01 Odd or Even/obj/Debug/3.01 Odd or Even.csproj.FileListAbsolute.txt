@@ -1,0 +1,9 @@
+D:\Projects\Telerik\C# Fundamentals\Theme 3\3.1 Odd or Even\bin\Debug\3.1 Odd or Even.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 3\3.1 Odd or Even\bin\Debug\3.1 Odd or Even.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 3\3.1 Odd or Even\bin\Debug\3.1 Odd or Even.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 3\3.1 Odd or Even\obj\Debug\3.01 Odd or Even.csprojResolveAssemblyReference.cache
+D:\Projects\Telerik\C# Fundamentals\Theme 3\3.1 Odd or Even\obj\Debug\3.1 Odd or Even.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 3\3.1 Odd or Even\obj\Debug\3.1 Odd or Even.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 3\3.01 Odd or Even\bin\Debug\3.1 Odd or Even.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 3\3.01 Odd or Even\obj\Debug\3.1 Odd or Even.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 3\3.01 Odd or Even\obj\Debug\3.1 Odd or Even.pdb

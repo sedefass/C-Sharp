@@ -1,0 +1,8 @@
+D:\Projects\Telerik\C# Fundamentals\Theme 4\4.03 Circle\bin\Debug\4.03 Circle.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 4\4.03 Circle\bin\Debug\4.03 Circle.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 4\4.03 Circle\bin\Debug\4.03 Circle.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 4\4.03 Circle\obj\Debug\4.03 Circle.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 4\4.03 Circle\obj\Debug\4.03 Circle.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 4 Console IO\4.03 Circle\bin\Debug\4.03 Circle.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 4 Console IO\4.03 Circle\obj\Debug\4.03 Circle.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 4 Console IO\4.03 Circle\obj\Debug\4.03 Circle.pdb

@@ -1,0 +1,5 @@
+D:\Projects\Telerik\C# Fundamentals\Theme 1\1.08 SquareRoot\bin\Debug\1.08 SquareRoot.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 1\1.08 SquareRoot\bin\Debug\1.08 SquareRoot.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 1\1.08 SquareRoot\bin\Debug\1.08 SquareRoot.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 1\1.08 SquareRoot\obj\Debug\1.08 SquareRoot.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 1\1.08 SquareRoot\obj\Debug\1.08 SquareRoot.pdb

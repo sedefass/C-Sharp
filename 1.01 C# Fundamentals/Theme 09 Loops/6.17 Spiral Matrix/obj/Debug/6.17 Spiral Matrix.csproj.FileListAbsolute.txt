@@ -1,0 +1,11 @@
+D:\Projects\Telerik\C# Fundamentals\Theme 09 Loops\6.17 Spiral Matrix\bin\Debug\6. 17 Spiral Matrix.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 09 Loops\6.17 Spiral Matrix\obj\Debug\6. 17 Spiral Matrix.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 09 Loops\6.17 Spiral Matrix\obj\Debug\6. 17 Spiral Matrix.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 09 Loops\6.17 Spiral Matrix\bin\Debug\6. 17 Spiral Matrix.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 09 Loops\6.17 Spiral Matrix\bin\Debug\6. 17 Spiral Matrix.pdb
+D:\Projects\Telerik\!Autumn 2016\C# Fundamentals\Theme 09 Loops\6.17 Spiral Matrix\bin\Debug\6. 17 Spiral Matrix.exe.config
+D:\Projects\Telerik\!Autumn 2016\C# Fundamentals\Theme 09 Loops\6.17 Spiral Matrix\obj\Debug\6. 17 Spiral Matrix.exe
+D:\Projects\Telerik\!Autumn 2016\C# Fundamentals\Theme 09 Loops\6.17 Spiral Matrix\obj\Debug\6. 17 Spiral Matrix.pdb
+D:\Projects\Telerik\!Autumn 2016\C# Fundamentals\Theme 09 Loops\6.17 Spiral Matrix\bin\Debug\6. 17 Spiral Matrix.exe
+D:\Projects\Telerik\!Autumn 2016\C# Fundamentals\Theme 09 Loops\6.17 Spiral Matrix\bin\Debug\6. 17 Spiral Matrix.pdb
+D:\Projects\Telerik\!Autumn 2016\C# Fundamentals\Theme 09 Loops\6.17 Spiral Matrix\obj\Debug\6.17 Spiral Matrix.csprojResolveAssemblyReference.cache

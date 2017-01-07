@@ -1,0 +1,5 @@
+D:\Projects\Telerik\C# Fundamentals\Theme 3\3.08 Prime check\bin\Debug\3.08 Prime check.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 3\3.08 Prime check\bin\Debug\3.08 Prime check.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 3\3.08 Prime check\bin\Debug\3.08 Prime check.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 3\3.08 Prime check\obj\Debug\3.08 Prime check.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 3\3.08 Prime check\obj\Debug\3.08 Prime check.pdb

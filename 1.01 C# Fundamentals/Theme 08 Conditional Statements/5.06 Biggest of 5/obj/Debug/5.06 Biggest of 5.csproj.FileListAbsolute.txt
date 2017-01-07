@@ -1,0 +1,8 @@
+D:\Projects\Telerik\C# Fundamentals\Theme 5 Conditional Statements\5.06 Biggest of 5\bin\Debug\5.06 Biggest of 5.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 5 Conditional Statements\5.06 Biggest of 5\bin\Debug\5.06 Biggest of 5.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 5 Conditional Statements\5.06 Biggest of 5\bin\Debug\5.06 Biggest of 5.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 5 Conditional Statements\5.06 Biggest of 5\obj\Debug\5.06 Biggest of 5.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 5 Conditional Statements\5.06 Biggest of 5\obj\Debug\5.06 Biggest of 5.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 08 Conditional Statements\5.06 Biggest of 5\bin\Debug\5.06 Biggest of 5.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 08 Conditional Statements\5.06 Biggest of 5\obj\Debug\5.06 Biggest of 5.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 08 Conditional Statements\5.06 Biggest of 5\obj\Debug\5.06 Biggest of 5.pdb

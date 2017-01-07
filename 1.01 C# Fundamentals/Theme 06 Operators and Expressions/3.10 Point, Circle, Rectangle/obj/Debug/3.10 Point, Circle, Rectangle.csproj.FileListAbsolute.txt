@@ -1,0 +1,5 @@
+D:\Projects\Telerik\C# Fundamentals\Theme 3\3.10 Point, Circle, Rectangle\bin\Debug\3.10 Point, Circle, Rectangle.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 3\3.10 Point, Circle, Rectangle\bin\Debug\3.10 Point, Circle, Rectangle.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 3\3.10 Point, Circle, Rectangle\bin\Debug\3.10 Point, Circle, Rectangle.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 3\3.10 Point, Circle, Rectangle\obj\Debug\3.10 Point, Circle, Rectangle.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 3\3.10 Point, Circle, Rectangle\obj\Debug\3.10 Point, Circle, Rectangle.pdb

@@ -1,0 +1,8 @@
+D:\Projects\Telerik\C# Fundamentals\Theme 5 Conditional Statements\5.08 Digit as Word\bin\Debug\5.08 Digit as Word.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 5 Conditional Statements\5.08 Digit as Word\bin\Debug\5.08 Digit as Word.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 5 Conditional Statements\5.08 Digit as Word\bin\Debug\5.08 Digit as Word.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 5 Conditional Statements\5.08 Digit as Word\obj\Debug\5.08 Digit as Word.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 5 Conditional Statements\5.08 Digit as Word\obj\Debug\5.08 Digit as Word.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 08 Conditional Statements\5.08 Digit as Word\bin\Debug\5.08 Digit as Word.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 08 Conditional Statements\5.08 Digit as Word\obj\Debug\5.08 Digit as Word.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 08 Conditional Statements\5.08 Digit as Word\obj\Debug\5.08 Digit as Word.pdb

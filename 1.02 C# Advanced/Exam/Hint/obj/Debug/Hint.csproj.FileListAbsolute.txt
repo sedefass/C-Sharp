@@ -1,0 +1,5 @@
+D:\Projects\Telerik\C# Advanced\Exam\Hint\bin\Debug\Hint.exe.config
+D:\Projects\Telerik\C# Advanced\Exam\Hint\bin\Debug\Hint.exe
+D:\Projects\Telerik\C# Advanced\Exam\Hint\bin\Debug\Hint.pdb
+D:\Projects\Telerik\C# Advanced\Exam\Hint\obj\Debug\Hint.exe
+D:\Projects\Telerik\C# Advanced\Exam\Hint\obj\Debug\Hint.pdb

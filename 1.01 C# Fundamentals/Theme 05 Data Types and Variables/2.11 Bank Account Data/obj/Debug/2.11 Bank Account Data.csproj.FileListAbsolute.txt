@@ -1,0 +1,1 @@
+D:\Projects\Telerik\C# Fundamentals\Theme 2\2.11 Bank Account Data\bin\Debug\2.11 Bank Account Data.exe.config

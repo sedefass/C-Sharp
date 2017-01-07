@@ -1,0 +1,8 @@
+D:\Projects\Telerik\C# Fundamentals\Theme 4\4.05 Number Comparer\bin\Debug\4.05 Number Comparer.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 4\4.05 Number Comparer\bin\Debug\4.05 Number Comparer.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 4\4.05 Number Comparer\bin\Debug\4.05 Number Comparer.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 4\4.05 Number Comparer\obj\Debug\4.05 Number Comparer.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 4\4.05 Number Comparer\obj\Debug\4.05 Number Comparer.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 4 Console IO\4.05 Number Comparer\bin\Debug\4.05 Number Comparer.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 4 Console IO\4.05 Number Comparer\obj\Debug\4.05 Number Comparer.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 4 Console IO\4.05 Number Comparer\obj\Debug\4.05 Number Comparer.pdb

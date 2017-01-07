@@ -1,0 +1,1 @@
+D:\Projects\Telerik\C# Fundamentals\Theme 10 Arrays\Maximal K sum (other read)\bin\Debug\Maximal K sum (other read).exe.config

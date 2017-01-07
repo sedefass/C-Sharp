@@ -1,0 +1,6 @@
+D:\Projects\Telerik\C# Fundamentals\Theme 2\2.01 Declare Variables\bin\Debug\2.01 Declare Variables.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 2\2.01 Declare Variables\bin\Debug\2.01 Declare Variables.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 2\2.01 Declare Variables\bin\Debug\2.01 Declare Variables.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 2\2.01 Declare Variables\obj\Debug\2.01 Declare Variables.csprojResolveAssemblyReference.cache
+D:\Projects\Telerik\C# Fundamentals\Theme 2\2.01 Declare Variables\obj\Debug\2.01 Declare Variables.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 2\2.01 Declare Variables\obj\Debug\2.01 Declare Variables.pdb

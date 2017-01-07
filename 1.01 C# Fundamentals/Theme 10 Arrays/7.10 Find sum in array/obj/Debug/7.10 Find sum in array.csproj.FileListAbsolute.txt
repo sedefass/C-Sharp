@@ -1,0 +1,6 @@
+D:\Projects\Telerik\C# Fundamentals\Theme 10 Arrays\7.10 Find sum in array\bin\Debug\7.10 Find sum in array.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 10 Arrays\7.10 Find sum in array\bin\Debug\7.10 Find sum in array.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 10 Arrays\7.10 Find sum in array\bin\Debug\7.10 Find sum in array.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 10 Arrays\7.10 Find sum in array\obj\Debug\7.10 Find sum in array.csprojResolveAssemblyReference.cache
+D:\Projects\Telerik\C# Fundamentals\Theme 10 Arrays\7.10 Find sum in array\obj\Debug\7.10 Find sum in array.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 10 Arrays\7.10 Find sum in array\obj\Debug\7.10 Find sum in array.pdb

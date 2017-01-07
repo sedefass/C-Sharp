@@ -1,0 +1,5 @@
+D:\Projects\Telerik\C# Fundamentals\Theme 1\1.17 Play with the VS Debugger\bin\Debug\1.17 Play with the VS Debugger.exe.config
+D:\Projects\Telerik\C# Fundamentals\Theme 1\1.17 Play with the VS Debugger\bin\Debug\1.17 Play with the VS Debugger.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 1\1.17 Play with the VS Debugger\bin\Debug\1.17 Play with the VS Debugger.pdb
+D:\Projects\Telerik\C# Fundamentals\Theme 1\1.17 Play with the VS Debugger\obj\Debug\1.17 Play with the VS Debugger.exe
+D:\Projects\Telerik\C# Fundamentals\Theme 1\1.17 Play with the VS Debugger\obj\Debug\1.17 Play with the VS Debugger.pdb

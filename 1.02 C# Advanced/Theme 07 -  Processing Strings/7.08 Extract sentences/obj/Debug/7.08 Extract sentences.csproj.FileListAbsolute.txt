@@ -1,0 +1,5 @@
+D:\Projects\Telerik\C# Advanced\Theme 07 -  Processing Strings\7.08 Extract sentences\bin\Debug\7.08 Extract sentences.exe.config
+D:\Projects\Telerik\C# Advanced\Theme 07 -  Processing Strings\7.08 Extract sentences\bin\Debug\7.08 Extract sentences.exe
+D:\Projects\Telerik\C# Advanced\Theme 07 -  Processing Strings\7.08 Extract sentences\bin\Debug\7.08 Extract sentences.pdb
+D:\Projects\Telerik\C# Advanced\Theme 07 -  Processing Strings\7.08 Extract sentences\obj\Debug\7.08 Extract sentences.exe
+D:\Projects\Telerik\C# Advanced\Theme 07 -  Processing Strings\7.08 Extract sentences\obj\Debug\7.08 Extract sentences.pdb
